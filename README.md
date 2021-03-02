@@ -1,4 +1,4 @@
-Hey everyone, happy to help, check out my ![YouTube[(https://bit.ly/SalmanMKC) and stuff  
+Hey everyone, happy to help, check out my [YouTube[(https://bit.ly/salmanmkc) and stuff  
   
 ![image title](https://rushter.com/counter.svg)  
   
