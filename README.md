@@ -5,3 +5,5 @@ Hey everyone, happy to help, check out my [YouTube](https://bit.ly/salmanmkc) an
 Projects I've worked on that are **public**
 
 My HoloLens video is private to protect from plagiarism, will probably make public again in the future, but you can watch on my YouTube for a demonstration
+
+Currently working on two other Mixed Reality Applicatoins, one I built for supermarkets and another is for the NationaL Gallery Museum.
