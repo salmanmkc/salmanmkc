@@ -6,4 +6,4 @@ Projects I've worked on that are **public**
 
 My HoloLens video is private to protect from plagiarism, will probably make public again in the future, but you can watch on my YouTube for a demonstration
 
-I've built another Mixed Reality Application for supermarkets and another I'm building for the NationaL Gallery Museum.
+I've built another Mixed Reality Application for supermarkets and another I'm building for the National Gallery Museum.
