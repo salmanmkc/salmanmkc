@@ -17,6 +17,8 @@ Two of my latest Mixed Reality projects:
 - Augmented Reality Supermarket Experience
 - Augmented Reality App for the London National Gallery
 
+(may showcase these on YouTube at some point 😊)
+
 ### <🎵> About me </🎵>
 
 My name is Salman and I'm a **content creator**. 
