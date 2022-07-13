@@ -26,8 +26,7 @@ My name is Salman and I'm a **content creator**.
 
 ### <🖥️> GitHub stats </🖥️>
 
-![](https://raw.githubusercontent.com/salmanmkc/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/salmanmkc/github-stats/master/generated/overview.svg#gh-light-mode-only)
+[![Salman's's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanmkc)](https://github.com/salmanmkc/github-readme-stats)
 [![Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanmkc&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/salmanmkc) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanmkc&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/salmanmkc) 
 | ----------- | ------------ |
 
