@@ -44,6 +44,6 @@ My name is Salman and I'm a **content creator**.
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=SalmanMKC+on+YouTube;Connect+on+LinkedIn%2FTwitter+%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=SalmanMKC+on+YouTube;Connect+on+LinkedIn%2FTwitter)](https://git.io/typing-svg)
 
 Starting a new counter from fresh (so lower than the actual count):  ![](https://komarev.com/ghpvc/?username=salmanmkc)
