@@ -15,7 +15,7 @@
 
 I'd love to hear from you! Connect with me through:
 
-[![GitHub](https://img.shields.io/badge/salmanmkc-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salmanmkc) [![Gmail](https://img.shields.io/badge/13schishti@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:13schishti@gmail.com)[
+[![GitHub](https://img.shields.io/badge/salmanmkc-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salmanmkc) [![Gmail](https://img.shields.io/badge/13schishti@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:13schishti@gmail.com)
 [LinkedIn](https://linkedin.com/in/salmanmkc)
 
 ---
