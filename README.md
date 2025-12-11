@@ -6,7 +6,7 @@
 
 ## 📊 GitHub Statistics
 
-[![Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanmkc&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&count_private=true)](https://github.com/salmanmkc) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanmkc&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/salmanmkc) 
+[![Salman's GitHub stats](https://github-readme-stats-hfshc99ck-salmans-projects-659b0775.vercel.app/api?username=salmanmkc&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&count_private=true)](https://github.com/salmanmkc) | [![Top Languages](https://github-readme-stats-hfshc99ck-salmans-projects-659b0775.vercel.app/api/top-langs/?username=salmanmkc&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/salmanmkc) 
 | ----------- | ------------ |
 
 ---
