@@ -2,14 +2,11 @@
 
 [![Follow SalmanMKC on Twitter](https://img.shields.io/twitter/follow/SalmanMKC.svg?label=Follow%20SalmanMKC&style=social)](https://twitter.com/intent/follow?screen_name=SalmanMKC)
 
----
 
-## 📊 GitHub Statistics
+<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=salmanmkc" target="_blank">
+  <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn"/>
+</a>
 
-[![Salman's GitHub stats](https://github-readme-stats-hfshc99ck-salmans-projects-659b0775.vercel.app/api?username=salmanmkc&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&count_private=true)](https://github.com/salmanmkc) | [![Top Languages](https://github-readme-stats-hfshc99ck-salmans-projects-659b0775.vercel.app/api/top-langs/?username=salmanmkc&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/salmanmkc) 
-| ----------- | ------------ |
-
----
 
 ## 📬 Get in Touch
 
