@@ -26,3 +26,5 @@ I'd love to hear from you! Connect with me through:
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
+
+![My GitHub Game](game.gif)
