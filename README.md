@@ -15,9 +15,11 @@
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"A flower falls, even though we love it; and a weed grows, even though we do not love it."*
+> *"Instead of thinking outside the box, get rid of the box."*
 >
-> — **Dogen**
+> — **Deepak Chopra**
+
+<sub>📅 2026-04-11 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
