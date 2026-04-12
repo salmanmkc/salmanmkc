@@ -15,9 +15,11 @@
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments."*
+> *"There are no mistakes in life, only lessons."*
 >
-> — **Ming-Dao Deng**
+> — **Robin Sharma**
+
+<sub>📅 2026-04-12 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
