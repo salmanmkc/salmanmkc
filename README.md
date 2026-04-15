@@ -15,9 +15,11 @@
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Excellence is not a skill. It is an attitude. "*
+> *"Nothing good ever comes of violence."*
 >
-> — **Ralph Marston**
+> — **Martin Luther**
+
+<sub>📅 2026-04-15 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
