@@ -15,9 +15,11 @@
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Life is like underwear, should be changed twice a day.  "*
+> *"It is difficult to free fools from the chains they revere. "*
 >
-> — **Ray Bradbury**
+> — **Voltaire**
+
+<sub>📅 2026-04-16 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
