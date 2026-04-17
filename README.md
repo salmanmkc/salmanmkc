@@ -15,9 +15,11 @@
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"A Quitter never wins - and - a Winner never quits."*
+> *"Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot."*
 >
-> — **Napoleon Hill**
+> — **D. H. Lawrence**
+
+<sub>📅 2026-04-17 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
