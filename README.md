@@ -15,9 +15,11 @@
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"You have the potential for greatness."*
+> *"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. "*
 >
-> — **Steve Harvey**
+> — **Steve Jobs**
+
+<sub>📅 2026-04-18 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
