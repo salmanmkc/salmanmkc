@@ -15,9 +15,11 @@
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Every time we liberate a woman, we liberate a man. "*
+> *"It's not what we do once in a while that shapes our lives, but what we do consistently."*
 >
-> — **Margaret Mead**
+> — **Tony Robbins**
+
+<sub>📅 2026-04-19 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
