@@ -15,9 +15,11 @@
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"In order for you to be the BEST you can be for others, first you must be BEST for yourself."*
+> *"Fool me once, shame on you; fool me twice, shame on me. "*
 >
-> — **Jeffrey Gitomer**
+> — **Chinese Proverb**
+
+<sub>📅 2026-04-20 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
