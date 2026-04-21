@@ -15,9 +15,11 @@
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"You'll see it when you believe it. "*
+> *"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose."*
 >
-> — **Wayne Dyer**
+> — **Steve Jobs**
+
+<sub>📅 2026-04-21 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
