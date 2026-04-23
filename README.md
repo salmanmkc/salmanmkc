@@ -15,9 +15,11 @@
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Never to suffer would never to have been blessed."*
+> *"Wheels of justice grind slow but grind fine."*
 >
-> — **Edgar Allan Poe**
+> — **Sun Tzu**
+
+<sub>📅 2026-04-23 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
