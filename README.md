@@ -15,9 +15,11 @@
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Sometimes, the only way to evolve is to open ourselves fully."*
+> *"You use a glass mirror to see your face; you use works of art to see your soul."*
 >
-> — **Kamal Ravikant**
+> — **George Bernard Shaw**
+
+<sub>📅 2026-04-24 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
