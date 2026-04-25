@@ -15,9 +15,11 @@
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"A person is only by the thoughts that he chooses."*
+> *"Life is one long process of getting tired."*
 >
-> — **James Allen**
+> — **Samuel Butler**
+
+<sub>📅 2026-04-25 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
