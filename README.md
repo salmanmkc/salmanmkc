@@ -15,9 +15,11 @@
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"You can, you should, and if you're brave enough to start, you will."*
+> *"I succeeded by saying what everyone else is thinking."*
 >
-> — **Stephen King**
+> — **Joan Rivers**
+
+<sub>📅 2026-04-26 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
