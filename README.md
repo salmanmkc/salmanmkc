@@ -15,9 +15,11 @@
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Facts are the enemy of truth. "*
+> *"Most people fail in life not because they aim too high and miss, but because they aim too low and hit."*
 >
-> — **Miguel de Cervantes**
+> — **Les Brown**
+
+<sub>📅 2026-04-27 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
