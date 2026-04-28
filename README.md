@@ -15,9 +15,11 @@
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"The more you praise and celebrate your life, the more there is in life to celebrate. "*
+> *"The future is the worst thing about the present."*
 >
-> — **Oprah Winfrey**
+> — **Gustave Flaubert**
+
+<sub>📅 2026-04-28 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
