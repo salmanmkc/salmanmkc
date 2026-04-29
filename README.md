@@ -15,9 +15,11 @@
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Nothing is permanent in this wicked world - not even our troubles."*
+> *"Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey."*
 >
-> — **Charlie Chaplin**
+> — **Roy T. Bennett**
+
+<sub>📅 2026-04-29 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
