@@ -15,9 +15,11 @@
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Hope is not a strategy. Luck is not a factor. Fear is not an option."*
+> *"Much learning does not teach understanding."*
 >
-> — **James Cameron**
+> — **Heraclitus**
+
+<sub>📅 2026-04-30 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
