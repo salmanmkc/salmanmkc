@@ -15,9 +15,11 @@
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Don't spend time beating on a wall, hoping to transform it into a door."*
+> *"The future belongs to those who learn more skills and combine them in creative ways."*
 >
-> — **Coco Chanel**
+> — **Robert Greene**
+
+<sub>📅 2026-05-01 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
