@@ -15,9 +15,11 @@
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. "*
+> *"Successful people are not without problems. They're simply people who've learned to solve their problems."*
 >
-> — **Steve Jobs**
+> — **Earl Nightingale**
+
+<sub>📅 2026-05-02 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
