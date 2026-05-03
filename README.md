@@ -1,9 +1,3 @@
-[![Follow SalmanMKC on Twitter](https://img.shields.io/twitter/follow/SalmanMKC.svg?label=Follow%20SalmanMKC&style=social)](https://twitter.com/intent/follow?screen_name=SalmanMKC)
-
-<a href="https://www.linkedin.com/in/salmanmkc/" target="_blank">
-  <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn"/>
-</a>
-
 ## As seen in
 
 [University of Oxford](https://www.instagram.com/p/CzoEm5XIM7X/?img_index=5) · [Windows](https://www.youtube.com/watch?v=-cQzOhObAkM) · [BenQ](https://www.benq.com/content/b2c/en-us/knowledge-center/knowledge/meet-the-expert-product-manager-salman-chishti.html) · [Times Square](https://media.licdn.com/dms/image/v2/D4E22AQHj9Jf-7wDC1w/feedshare-shrink_1280/B4EZh0fi_WGoAo-/0/1754301085646?e=1779321600&v=beta&t=A0mhvpQww9WnD0v75o5vz9PU6Fjv7Ml4fzEzL7U3LaQ) · [ACM CHI](https://dl.acm.org/doi/full/10.1145/3706598.3713387)
