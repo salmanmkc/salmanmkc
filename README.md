@@ -15,9 +15,11 @@
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"The more you feed your mind with positive thoughts, the more you can attract great things into your life."*
+> *"Kind words can be short and easy to speak, but their echoes are truly endless."*
 >
-> — **Roy T. Bennett**
+> — **Mother Teresa**
+
+<sub>📅 2026-05-03 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
