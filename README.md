@@ -1,15 +1,56 @@
-# Hello, I'm Salman! 👋 😃
-
 [![Follow SalmanMKC on Twitter](https://img.shields.io/twitter/follow/SalmanMKC.svg?label=Follow%20SalmanMKC&style=social)](https://twitter.com/intent/follow?screen_name=SalmanMKC)
 
 <a href="https://www.linkedin.com/in/salmanmkc/" target="_blank">
   <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn"/>
 </a>
 
+## As seen in
+
+[University of Oxford](https://www.instagram.com/p/CzoEm5XIM7X/?img_index=5) · [Windows](https://www.youtube.com/watch?v=-cQzOhObAkM) · [BenQ](https://www.benq.com/content/b2c/en-us/knowledge-center/knowledge/meet-the-expert-product-manager-salman-chishti.html) · [Times Square](https://media.licdn.com/dms/image/v2/D4E22AQHj9Jf-7wDC1w/feedshare-shrink_1280/B4EZh0fi_WGoAo-/0/1754301085646?e=1779321600&v=beta&t=A0mhvpQww9WnD0v75o5vz9PU6Fjv7Ml4fzEzL7U3LaQ) · [ACM CHI](https://scholar.google.co.uk/citations?hl=en&user=eS60RNQAAAAJ)
+
+---
+
+## Hello there 👋
+
+My name is **Salman Chishti**. I'm a Software Engineer at **GitHub** and previously at **Microsoft**.
+
+
+## Speaking & Events
+
+I enjoy sharing knowledge with other developers. I've hosted and spoken at a number of Microsoft flagship events:
+
+| Event | Role |
+|-------|------|
+| Microsoft Build (Seattle 🇺🇸) | Multiple Session host (in-person) |
+| Microsoft Ignite | Speaker |
+| Microsoft Learn TV | Presenter |
+| Microsoft Business Applications Summit | Speaker |
+| Microsoft Experience Center | Speaker |
+| Microsoft Intern Day | Host |
+| Microsoft Imagine Cup Junior | Judge |
+
+## Research & Projects
+
+| Project | Description |
+|---------|-------------|
+| [CHI 2025 — CounselAR](https://dl.acm.org/doi/full/10.1145/3706598.3713387) | AR filters for online psychotherapy with South Korean young adults |
+| [Microsoft Patent application](https://patents.google.com/?inventor=salman+chishti&oq=salman+chishti) | Generation of Emphasis Image with Emphasis Boundary |
+| [Youth WellTech (arXiv, with Microsoft Research)](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=eS60RNQAAAAJ&citation_for_view=eS60RNQAAAAJ:u-x6o8ySG0sC) | A global remote co-design sprint for youth mental health technology |
+| NASA Hackathon Winner | Biospatial Openworm C. elegans AR Simulation |
+| UCL Agentverse Hackathon #1 | Multi-agent system using CAIPE/LangGraph |
+| AR Museum Experience | London National Gallery — audio, animations, narration for accessibility |
+| AR Smart Supermarket | Azure Spatial Anchors + Cognitive Services for indoor navigation |
+| Mixed Reality Smart Office | HoloLens IoT data visualization with dynamic image tracking |
+
+## Awards
+
+🏆 UCL Agentverse Hackathon #1 · 🚀 NASA International Space Apps Award · 📜 Microsoft Patent Filer · ☁️ Microsoft Azure MVP · 🪟 Windows Insider MVP · 🏅 Microsoft Customer Success Unit Award · 🥇 Gold Microsoft Learn Student Ambassador · 🎓 University of Nottingham Community Contributions · 🧩 Microsoft Intern Puzzle Day 3rd · ⌨️ Microsoft Typing Competition #1
+
+
 ---
 
 <!-- WEATHER:START -->
-### ⛅ London, right now
+### ⛅ London (where I'm living right now)
 ⛅ **18°C** (feels 18°C) · Partly cloudy · 💧 56% · 💨 9 km/h · 🕐 19:23 BST
 <!-- WEATHER:END -->
 
