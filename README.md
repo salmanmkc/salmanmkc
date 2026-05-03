@@ -27,7 +27,7 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 | [Microsoft Patent application](https://patents.google.com/?inventor=salman+chishti&oq=salman+chishti) | Generation of Emphasis Image with Emphasis Boundary |
 | [Youth WellTech (arXiv, with Microsoft Research)](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=eS60RNQAAAAJ&citation_for_view=eS60RNQAAAAJ:u-x6o8ySG0sC) | A global remote co-design sprint for youth mental health technology |
 | NASA Hackathon Award Winner | Biospatial Openworm C. elegans AR Simulation |
-| UCL Agentverse Hackathon #1 | Multi-agent system using CAIPE/LangGraph |
+| [UCL Agentverse Hackathon #1](https://github.com/salmanmkc/agentverse) | Multi-agent system using CAIPE/LangGraph |
 | Mixed Reality EEG (brain), PPG (heart) and pose detection for Panic Attack intervention with Mixed Reality | Brain computer interface |
 | [AR Museum Experience](https://www.youtube.com/watch?v=oLyT37rXpKk&t=1s&pp=0gcJCd4KAYcqIYzv) | London National Gallery — audio, animations, narration for accessibility |
 | [AR Smart Supermarket](https://www.youtube.com/watch?v=HpgQTqcpifc&t=1s) | Azure Spatial Anchors + Cognitive Services for indoor navigation |
