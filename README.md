@@ -15,9 +15,11 @@
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"The person who cannot control his words shows that he cannot control himself."*
+> *"Unless someone truly has the power to say no, they never truly have the power to say yes."*
 >
-> — **Robert Greene**
+> — **Dan Millman**
+
+<sub>📅 2026-05-04 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
