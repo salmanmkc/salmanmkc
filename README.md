@@ -10,14 +10,14 @@
 
 <!-- WEATHER:START -->
 ### ⛅ London, right now
-⛅ **14°C** (feels 13°C) · Partly cloudy · 💧 77% · 💨 11 km/h · 🕐 13:42 BST
+☁️ **15°C** (feels 15°C) · Cloudy · 💧 72% · 💨 11 km/h · 🕐 19:39 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Some people dream of success, while others wake up and work hard at it."*
+> *"If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving."*
 >
-> — **Napoleon Hill**
+> — **Martin Luther King, Jr.**
 <!-- QUOTE:END -->
 
 ---
@@ -28,7 +28,7 @@
 > A long, narrow, deep inlet between cliffs.
 
 ### 📅 On This Day
-📅 **1919** — The May Fourth Movement began in China with large-scale student demonstrations in Tiananmen Square, Peking. · [Read more](https://en.wikipedia.org/wiki/May_Fourth_Movement)
+📅 **1919** — The May Fourth Movement began in China with large-scale student demonstrations in Tiananmen Square, Beijing. · [Read more](https://en.wikipedia.org/wiki/May_Fourth_Movement)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -55,4 +55,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-05-04 13:42 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-05-04 19:39 BST</sub>
