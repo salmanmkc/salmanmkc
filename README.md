@@ -15,9 +15,11 @@
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"The day is for honest men, the night for thieves."*
+> *"A hopeless man is a very desperate and dangerous man, almost a dead man."*
 >
-> — **Euripides**
+> — **Robert F. Kennedy**
+
+<sub>📅 2026-05-05 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
