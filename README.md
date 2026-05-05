@@ -10,25 +10,25 @@
 
 <!-- WEATHER:START -->
 ### ⛅ London, right now
-☁️ **15°C** (feels 15°C) · Cloudy · 💧 72% · 💨 11 km/h · 🕐 19:39 BST
+☁️ **12°C** (feels 11°C) · Overcast · 💧 82% · 💨 8 km/h · 🕐 01:46 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving."*
+> *"Fool me once, shame on you; fool me twice, shame on me. "*
 >
-> — **Martin Luther King, Jr.**
+> — **Chinese Proverb**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**fjord** · /fiˈɔːd/ · _noun_
-> A long, narrow, deep inlet between cliffs.
+**glyph** · /ɡlɪf/ · _noun_
+> A figure carved in relief or incised, especially representing a sound, word, or idea.
 
 ### 📅 On This Day
-📅 **1919** — The May Fourth Movement began in China with large-scale student demonstrations in Tiananmen Square, Beijing. · [Read more](https://en.wikipedia.org/wiki/May_Fourth_Movement)
+📅 **1646** — First English Civil War: Charles I surrendered himself to Scottish Covenanter leader David Leslie near Newark, England. · [Read more](https://en.wikipedia.org/wiki/First_English_Civil_War)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -36,23 +36,23 @@
 🧠 About 14% of injecting drug users are HIV positive.
 
 ### 💡 Dev Tip of the Day
-💡 **Python**: `python -m json.tool < file.json` pretty-prints JSON from the command line.
+💡 **Git**: Use `git cherry-pick -n <SHA>` to apply changes without committing — useful for selective merges.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-🔀 merged PR in [`salmanmkc/runner`](https://github.com/salmanmkc/runner) · 2d ago
-🔀 opened PR in [`salmanmkc/runner`](https://github.com/salmanmkc/runner) · 2d ago
-🔀 closed PR in [`actions/runner`](https://github.com/actions/runner) · 2d ago
-🔀 opened PR in [`actions/runner`](https://github.com/actions/runner) · 2d ago
-🌿 Created branch in [`salmanmkc/runner`](https://github.com/salmanmkc/runner) · 2d ago
-🔒 ...and **2143** contributions to private repositories this year
+🔀 merged PR in [`salmanmkc/runner`](https://github.com/salmanmkc/runner) · 3d ago
+🔀 opened PR in [`salmanmkc/runner`](https://github.com/salmanmkc/runner) · 3d ago
+🔀 closed PR in [`actions/runner`](https://github.com/actions/runner) · 3d ago
+🔀 opened PR in [`actions/runner`](https://github.com/actions/runner) · 3d ago
+🌿 Created branch in [`salmanmkc/runner`](https://github.com/salmanmkc/runner) · 3d ago
+🔒 ...and **2144** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-05-04 19:39 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-05-05 01:46 BST</sub>
