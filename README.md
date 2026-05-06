@@ -15,9 +15,11 @@
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Gratitude is the fairest blossom which springs from the soul."*
+> *"A day wasted on others is not wasted on one's self."*
 >
-> — **Henry Ward Beecher**
+> — **Charles Dickens**
+
+<sub>📅 2026-05-06 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
