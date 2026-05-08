@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-⛅ **15°C** (feels 15°C) · Partly cloudy · 💧 51% · 💨 9 km/h · 🕐 19:40 BST
+🌙 **9°C** (feels 9°C) · Clear · 💧 81% · 💨 4 km/h · 🕐 01:50 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Knowledge is a treasure, but practice is the key to it."*
+> *"Where focus goes, energy flows."*
 >
-> — **Lao Tzu**
+> — **Tony Robbins**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**jubilant** · /ˈdʒu.bə.lənt/ · _adjective_
-> In a state of elation.
+**kinetic** · /kɪˈnɛtɪk/ · _adjective_
+> Relating to motion
 
 ### 📅 On This Day
-📅 **1697** — The 13th-century castle of Tre Kronor in Stockholm burned down; plans for the current royal palace were presented within the year. · [Read more](https://en.wikipedia.org/wiki/Tre_Kronor_(castle))
+📅 **1927** — French aviators Charles Nungesser and François Coli aboard the biplane L'Oiseau Blanc took off from Paris, attempting to make the first non-stop flight to New York, only to disappear before arrival. · [Read more](https://en.wikipedia.org/wiki/Charles_Nungesser)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,23 +68,23 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 When sharks take a bite, their eyes roll back and their teeth jut out.
 
 ### 💡 Dev Tip of the Day
-💡 **VS Code**: `Cmd/Ctrl + D` in VS Code selects the next occurrence of the current selection — multi-cursor editing.
+💡 **SQL**: In SQL, `COALESCE(col1, col2, 'default')` returns the first non-NULL value in the list.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-👀 PullRequestReview in [`google/xrblocks`](https://github.com/google/xrblocks) · 17h ago
-📋 PullRequestReviewComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 17h ago
-👀 PullRequestReview in [`google/xrblocks`](https://github.com/google/xrblocks) · 17h ago
-📋 PullRequestReviewComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 17h ago
-🔀 opened PR in [`actions/runner`](https://github.com/actions/runner) · 22h ago
-🔒 ...and **2163** contributions to private repositories this year
+🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 3h ago
+💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 3h ago
+💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 4h ago
+👀 PullRequestReview in [`actions/toolkit`](https://github.com/actions/toolkit) · 5h ago
+👀 PullRequestReview in [`google/xrblocks`](https://github.com/google/xrblocks) · 23h ago
+🔒 ...and **2164** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-05-07 19:40 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-05-08 01:50 BST</sub>
