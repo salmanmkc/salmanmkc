@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"You cannot find peace avoiding life."*
+> *"Humans and prosperity never endure side by side for long."*
 >
-> — **Virginia Woolf**
+> — **Herodotus**
+
+<sub>📅 2026-05-08 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
