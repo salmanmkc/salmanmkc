@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Success is good at any age, but the sooner you find it, the longer you will enjoy it."*
+> *"Let the beauty of what you love be what you do."*
 >
-> — **Napoleon Hill**
+> — **Rumi**
+
+<sub>📅 2026-05-09 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
