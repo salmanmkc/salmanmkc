@@ -42,25 +42,27 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-☁️ **20°C** (feels 20°C) · Cloudy · 💧 37% · 💨 17 km/h · 🕐 19:24 BST
+⛅ **13°C** (feels 12°C) · Partly cloudy · 💧 54% · 💨 14 km/h · 🕐 01:53 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"The more you trust yourself, the less you compare yourself to others."*
+> *"Care about what other people think and you will always be their prisoner."*
 >
-> — **Roy T. Bennett**
+> — **Lao Tzu**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**lustrous** · _adjective_
-> Having a glow or lustre.
+**illusion** · /ɪˈl(j)uːʒ(ə)n/ · _noun_
+> Anything that seems to be something that it is not.
+>
+> _"Using artificial additives, scientists can create the illusion of fruit flavours in food."_
 
 ### 📅 On This Day
-📅 **2005** — Pope Benedict XVI began the beatification process for his predecessor Pope John Paul II, waiving the standard five years required after the nominee's death. · [Read more](https://en.wikipedia.org/wiki/Pope_Benedict_XVI)
+📅 **2017** — Syrian civil war: The Syrian Democratic Forces, assisted by the U.S. military, captured the Tabqa Dam and surrounding countryside, completing the Battle of Tabqa. · [Read more](https://en.wikipedia.org/wiki/Syrian_civil_war)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,18 +70,18 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 Ketchup was sold in the 1830s as medicine.
 
 ### 💡 Dev Tip of the Day
-💡 **Git**: `git blame -L 10,20 file.py` shows who last changed lines 10-20 — great for code history.
+💡 **JavaScript**: Use `performance.now()` instead of `Date.now()` in JS for high-resolution timing.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-🌿 Created branch in [`salmanmkc/xrblocks`](https://github.com/salmanmkc/xrblocks) · 7h ago
-🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 14h ago
-🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 15h ago
-💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 15h ago
-👀 PullRequestReview in [`google/xrblocks`](https://github.com/google/xrblocks) · 15h ago
+🌿 Created branch in [`salmanmkc/xrblocks`](https://github.com/salmanmkc/xrblocks) · 13h ago
+🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 20h ago
+🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 22h ago
+💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 22h ago
+👀 PullRequestReview in [`google/xrblocks`](https://github.com/google/xrblocks) · 22h ago
 🔒 ...and **2164** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
@@ -87,4 +89,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-05-09 19:24 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-05-10 01:53 BST</sub>
