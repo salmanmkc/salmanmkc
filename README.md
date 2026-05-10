@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"The man who moved the mountain was the one who began carrying away the smallest stones."*
+> *"Nourish the mind like you would your body. The mind cannot survive on junk food."*
 >
-> — **Zen Proverb**
+> — **Brian Tracy**
+
+<sub>📅 2026-05-10 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
