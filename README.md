@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-⛅ **12°C** (feels 11°C) · Partly cloudy · 💧 47% · 💨 18 km/h · 🕐 19:44 BST
+⛅ **3°C** (feels 3°C) · Partly cloudy · 💧 81% · 💨 4 km/h · 🕐 01:49 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Success is liking yourself, liking what you do, and liking how you do it."*
+> *"First learn the meaning of what you say, and then speak."*
 >
-> — **Maya Angelou**
+> — **Epictetus**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**kindle** · /ˈkɪndl/ · _verb_
-> To start (a fire) or light (a torch, a match, coals, etc.).
+**labyrinth** · /ˈlab.(ə)ɹ.ɪnθ/ · _noun_
+> A maze-like structure built by Daedalus in Knossos, containing the Minotaur.
 
 ### 📅 On This Day
-📅 **2011** — An earthquake registering Mw 5.1, the worst to hit the region for more than 50 years, struck near Lorca, Spain. · [Read more](https://en.wikipedia.org/wiki/2011_Lorca_earthquake)
+📅 **2010** — On arrival at Tripoli International Airport, Afriqiyah Airways Flight 771 crashed into the ground at a speed of 262 kn (485 km/h; 302 mph) and exploded, killing all but one of the 304 people on board. · [Read more](https://en.wikipedia.org/wiki/Tripoli_International_Airport)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,18 +68,18 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 A cat's jaw cannot move sideways.
 
 ### 💡 Dev Tip of the Day
-💡 **Bash**: In Bash, `!!` repeats the last command. `sudo !!` re-runs it with sudo.
+💡 **VS Code**: `Shift+Alt+F` in VS Code auto-formats the current file using the configured formatter.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-🌿 Created branch in [`salmanmkc/xrblocks`](https://github.com/salmanmkc/xrblocks) · 1h ago
-💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 1h ago
-👀 PullRequestReview in [`google/xrblocks`](https://github.com/google/xrblocks) · 1h ago
-📋 PullRequestReviewComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 1h ago
-👀 PullRequestReview in [`google/xrblocks`](https://github.com/google/xrblocks) · 1h ago
+🔀 opened PR in [`google/xrblocks`](https://github.com/google/xrblocks) · just now
+🌿 Created branch in [`salmanmkc/xrblocks`](https://github.com/salmanmkc/xrblocks) · just now
+💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 2h ago
+👀 PullRequestReview in [`google/xrblocks`](https://github.com/google/xrblocks) · 2h ago
+💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 2h ago
 🔒 ...and **2161** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
@@ -87,4 +87,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-05-11 19:44 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-05-12 01:49 BST</sub>
