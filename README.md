@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Progress comes to those who train and train; reliance on secret techniques will get you nowhere."*
+> *"Go confidently in the direction of your dreams! Live the life you've imagined."*
 >
-> — **Morihei Ueshiba**
+> — **Henry David Thoreau**
+
+<sub>📅 2026-05-13 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
