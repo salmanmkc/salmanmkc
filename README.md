@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Life comes at us in waves. We can't predict or control those waves, but we can learn to surf."*
+> *"Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot."*
 >
-> — **Dan Millman**
+> — **Wayne Gretzky**
+
+<sub>📅 2026-05-17 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
