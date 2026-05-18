@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **13°C** (feels 12°C) · Light Rain, Rain Shower · 💧 54% · 💨 13 km/h · 🕐 19:27 BST
+🌤️ **8°C** (feels 7°C) · Overcast  · 💧 87% · 💨 8 km/h · 🕐 01:55 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"It's not whether you get knocked down, its whether you get back up."*
+> *"Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live."*
 >
-> — **Vince Lombardi**
+> — **Nicolas Chamfort**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**quasar** · /ˈkweɪ.zɑː/ · _noun_
-> An extragalactic object, starlike in appearance, that is among the most luminous and (putatively) the most distant objects in the universe.
+**resonance** · /ˈɹɛzənəns/ · _noun_
+> The quality of being resonant.
 
 ### 📅 On This Day
-📅 **1900** — The first copies of the children's novel The Wonderful Wizard of Oz by L. Frank Baum were printed. · [Read more](https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz)
+📅 **1974** — India conducted its first nuclear test explosion at Pokhran, the first confirmed nuclear test by a nation outside the five permanent members of the United Nations Security Council. · [Read more](https://en.wikipedia.org/wiki/Smiling_Buddha)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,23 +68,23 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 The first CD pressed in the US was Bruce Springsteen's "Born in the USA."
 
 ### 💡 Dev Tip of the Day
-💡 **Git**: Use `git worktree add ../feature feature-branch` to work on multiple branches simultaneously.
+💡 **GitHub CLI**: `gh pr create --web` opens a pre-filled PR creation page in your browser from the CLI.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-🌿 Created branch in [`salmanmkc/salmanmkc.github.io`](https://github.com/salmanmkc/salmanmkc.github.io) · 1d ago
-🔀 merged PR in [`htdangkhoa/google-ads`](https://github.com/htdangkhoa/google-ads) · 1d ago
+🌿 Created branch in [`salmanmkc/salmanmkc.github.io`](https://github.com/salmanmkc/salmanmkc.github.io) · 2d ago
+🔀 merged PR in [`htdangkhoa/google-ads`](https://github.com/htdangkhoa/google-ads) · 2d ago
 🔀 merged PR in [`github/gh-aw`](https://github.com/github/gh-aw) · 2d ago
 🔀 merged PR in [`github/gh-aw-firewall`](https://github.com/github/gh-aw-firewall) · 2d ago
 💬 IssueComment in [`github/gh-aw-firewall`](https://github.com/github/gh-aw-firewall) · 2d ago
-🔒 ...and **2202** contributions to private repositories this year
+🔒 ...and **2181** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-05-17 19:27 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-05-18 01:55 BST</sub>
