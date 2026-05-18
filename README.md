@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Not all those who wander are lost."*
+> *"If you want to see things just as they are, then you yourself must practice just as you are."*
 >
-> — **J.R.R. Tolkien**
+> — **Dogen**
+
+<sub>📅 2026-05-18 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
