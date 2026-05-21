@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **17°C** (feels 17°C) · Patchy rain nearby · 💧 78% · 💨 17 km/h · 🕐 19:53 BST
+🌤️ **12°C** (feels 11°C) · Clear  · 💧 88% · 💨 10 km/h · 🕐 01:58 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Fallacies do not cease to be fallacies because they become fashions."*
+> *"Heroes don't need to talk about what they did."*
 >
-> — **Gilbert Chesterton**
+> — **W.P. Kinsella**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**cosmos** · /ˈkɒz.mɒs/ · _noun_
-> The universe.
+**avalanche** · /ˈævəlɑːnʃ/ · _noun_
+> A large mass or body of snow and ice sliding swiftly down a mountain side, or falling down a precipice.
 
 ### 📅 On This Day
-📅 **1941** — World War II: German paratroopers began the Battle of Heraklion on the island of Crete, capturing the airfield and port in Heraklion ten days later. · [Read more](https://en.wikipedia.org/wiki/World_War_II)
+📅 **1917** — The Imperial War Graves Commission was established by royal charter to mark, record and maintain the graves and places of commemoration of British Empire military forces. · [Read more](https://en.wikipedia.org/wiki/Commonwealth_War_Graves_Commission)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,14 +68,14 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 Lithuania has the highest suicide rate in the world.
 
 ### 💡 Dev Tip of the Day
-💡 **CSS**: In CSS, `gap` works on Flexbox too (not just Grid) — cleaner than margins for spacing.
+💡 **Python**: `python -m http.server 8000` gives you an instant HTTP server in the current directory.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-🔀 merged PR in [`github/gh-aw-actions`](https://github.com/github/gh-aw-actions) · 21h ago
+🔀 merged PR in [`github/gh-aw-actions`](https://github.com/github/gh-aw-actions) · 1d ago
 💬 IssueComment in [`github/gh-aw-actions`](https://github.com/github/gh-aw-actions) · 2d ago
 🔀 merged PR in [`google/emboss`](https://github.com/google/emboss) · 2d ago
 🔀 reopened PR in [`github/gh-aw-actions`](https://github.com/github/gh-aw-actions) · 2d ago
@@ -86,4 +86,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-05-20 19:53 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-05-21 01:58 BST</sub>
