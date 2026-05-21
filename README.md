@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"If you try to micromanage yourself all you're going to do is make yourself miserable."*
+> *"Don't spend time beating on a wall, hoping to transform it into a door."*
 >
-> — **Naval Ravikant**
+> — **Coco Chanel**
+
+<sub>📅 2026-05-21 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
