@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"You have within you right now, everything you need to deal with whatever the world can throw at you."*
+> *"Believe that life is worth living and your belief will help create the fact."*
 >
-> — **Brian Tracy**
+> — **William James**
+
+<sub>📅 2026-05-22 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
