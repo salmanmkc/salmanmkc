@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"If what you're doing is not your passion, you have nothing to lose."*
+> *"Life is a question and how we live it is our answer."*
 >
-> — **Celestine Chua**
+> — **Gary Keller**
+
+<sub>📅 2026-05-23 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
