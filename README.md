@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Make each day a new horizon."*
+> *"You just can't beat the person who never gives up."*
 >
-> — **Christopher McCandless**
+> — **Babe Ruth**
+
+<sub>📅 2026-05-24 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
