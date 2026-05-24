@@ -42,16 +42,14 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-☀️ **15°C** (feels 15°C) · Sunny · 💧 88% · 💨 6 km/h · 🕐 08:13 BST
+☀️ **27°C** (feels 27°C) · Sunny · 💧 48% · 💨 4 km/h · 🕐 13:30 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"You just can't beat the person who never gives up."*
+> *"Live life as though nobody is watching, and express yourself as though everyone is listening."*
 >
-> — **Babe Ruth**
-
-<sub>📅 2026-05-24 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
+> — **Nelson Mandela**
 <!-- QUOTE:END -->
 
 ---
@@ -67,7 +65,7 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
 
-🧠 Owls are one of the only birds who can see the color blue!
+🧠 The katydid bug hears through holes in its hind legs!
 
 ### 💡 Dev Tip of the Day
 💡 **Git**: `git diff --word-diff` shows changes at the word level instead of full lines.
@@ -77,7 +75,7 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-🔀 merged PR in [`linkedin/shiv`](https://github.com/linkedin/shiv) · 2d ago
+🔀 merged PR in [`linkedin/shiv`](https://github.com/linkedin/shiv) · 3d ago
 🔀 merged PR in [`github/gh-aw-firewall`](https://github.com/github/gh-aw-firewall) · 3d ago
 🔀 opened PR in [`github/gh-aw-firewall`](https://github.com/github/gh-aw-firewall) · 3d ago
 🌿 Created branch in [`github/gh-aw-firewall`](https://github.com/github/gh-aw-firewall) · 3d ago
@@ -89,4 +87,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-05-24 08:13 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-05-24 13:30 BST</sub>
