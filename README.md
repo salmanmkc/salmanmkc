@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-☀️ **27°C** (feels 28°C) · Sunny · 💧 39% · 💨 10 km/h · 🕐 19:26 BST
+🌤️ **19°C** (feels 19°C) · Clear  · 💧 78% · 💨 5 km/h · 🕐 01:57 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Each day provides it's own gifts."*
+> *"Begin at once to live, and count each separate day as a separate life."*
 >
-> — **Marcus Aurelius**
+> — **Seneca**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**cipher** · /ˈsaɪfɚ/ · _noun_
-> A numeric character.
+**doppelganger** · /-ˌɡæŋə/ · _noun_
+> A ghostly double of a living person, especially one that haunts such a person.
 
 ### 📅 On This Day
-📅 **2017** — Rodrigo Duterte declared martial law in Mindanao following the Maute Group attack on Marawi. · [Read more](https://en.wikipedia.org/wiki/Rodrigo_Duterte)
+📅 **1798** — The Irish Rebellion of 1798 began, with battles beginning in County Kildare and fighting later spreading across the country. · [Read more](https://en.wikipedia.org/wiki/Irish_Rebellion_of_1798)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,7 +68,7 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 Owls are one of the only birds who can see the color blue!
 
 ### 💡 Dev Tip of the Day
-💡 **Node.js**: Use `npx` to run CLI tools without installing them globally: `npx create-react-app my-app`.
+💡 **Git**: `git diff --word-diff` shows changes at the word level instead of full lines.
 <!-- LEARN:END -->
 
 ---
@@ -87,4 +87,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-05-23 19:26 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-05-24 01:57 BST</sub>
