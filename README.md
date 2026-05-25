@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"There is no truth. There is only perception."*
+> *"Man is made by his belief. As he believes, so he is."*
 >
-> — **Gustave Flaubert**
+> — **Bhagavad Gita**
+
+<sub>📅 2026-05-25 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
