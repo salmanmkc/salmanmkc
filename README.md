@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-☀️ **26°C** (feels 27°C) · Sunny · 💧 51% · 💨 12 km/h · 🕐 19:27 BST
+🌤️ **20°C** (feels 20°C) · Clear  · 💧 73% · 💨 6 km/h · 🕐 01:58 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"It's very strange that the people you love are often the people you're most cruel to."*
+> *"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."*
 >
-> — **Kenneth Branagh**
+> — **Aristotle**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**doppelganger** · /-ˌɡæŋə/ · _noun_
-> A ghostly double of a living person, especially one that haunts such a person.
+**eclipse** · /iˈklɪps/ · _noun_
+> An alignment of astronomical objects whereby one object comes between the observer (or notional observer) and another object, thus obscuring the latter.
 
 ### 📅 On This Day
-📅 **1798** — The Irish Rebellion of 1798 began, with battles beginning in County Kildare and fighting later spreading across the country. · [Read more](https://en.wikipedia.org/wiki/Irish_Rebellion_of_1798)
+📅 **1895** — Oscar Wilde was sentenced by Alfred Wills to two years of hard labor for gross indecency. · [Read more](https://en.wikipedia.org/wiki/Oscar_Wilde)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,7 +68,7 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 The katydid bug hears through holes in its hind legs!
 
 ### 💡 Dev Tip of the Day
-💡 **Git**: `git diff --word-diff` shows changes at the word level instead of full lines.
+💡 **JavaScript**: Use `structuredClone(obj)` in JS for deep cloning — no more `JSON.parse(JSON.stringify())`.
 <!-- LEARN:END -->
 
 ---
@@ -80,11 +80,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🔀 opened PR in [`github/gh-aw-firewall`](https://github.com/github/gh-aw-firewall) · 3d ago
 🌿 Created branch in [`github/gh-aw-firewall`](https://github.com/github/gh-aw-firewall) · 3d ago
 👀 PullRequestReview in [`actions/runner-images`](https://github.com/actions/runner-images) · 3d ago
-🔒 ...and **2185** contributions to private repositories this year
+🔒 ...and **2174** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-05-24 19:27 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-05-25 01:58 BST</sub>
