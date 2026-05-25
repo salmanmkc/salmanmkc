@@ -42,16 +42,14 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-☀️ **22°C** (feels 25°C) · Sunny · 💧 69% · 💨 6 km/h · 🕐 08:43 BST
+☀️ **31°C** (feels 31°C) · Sunny · 💧 38% · 💨 10 km/h · 🕐 14:17 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Man is made by his belief. As he believes, so he is."*
+> *"We don't have to be smarter than the rest. We have to be more disciplined than the rest."*
 >
-> — **Bhagavad Gita**
-
-<sub>📅 2026-05-25 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
+> — **Warren Buffett**
 <!-- QUOTE:END -->
 
 ---
@@ -67,7 +65,7 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
 
-🧠 The katydid bug hears through holes in its hind legs!
+🧠 The only two days of the year in which there are no professional sports games--MLB, NBA, NHL, or NFL--are the day before and the day after the Major League All-Star Game.
 
 ### 💡 Dev Tip of the Day
 💡 **JavaScript**: Use `structuredClone(obj)` in JS for deep cloning — no more `JSON.parse(JSON.stringify())`.
@@ -77,7 +75,7 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-🔀 merged PR in [`linkedin/shiv`](https://github.com/linkedin/shiv) · 3d ago
+🔀 merged PR in [`linkedin/shiv`](https://github.com/linkedin/shiv) · 4d ago
 🔀 merged PR in [`github/gh-aw-firewall`](https://github.com/github/gh-aw-firewall) · 4d ago
 🔀 opened PR in [`github/gh-aw-firewall`](https://github.com/github/gh-aw-firewall) · 4d ago
 🌿 Created branch in [`github/gh-aw-firewall`](https://github.com/github/gh-aw-firewall) · 4d ago
@@ -89,4 +87,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-05-25 08:43 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-05-25 14:17 BST</sub>
