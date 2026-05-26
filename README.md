@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"There are two kinds of perfect people: those who are dead, and those who have not been born yet."*
+> *"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability."*
 >
-> — **Chinese Proverb**
+> — **John Wooden**
+
+<sub>📅 2026-05-26 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
