@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"The more you feed your mind with positive thoughts, the more you can attract great things into your life."*
+> *"Don't spend major time on minor things."*
 >
-> — **Roy T. Bennett**
+> — **Jim Rohn**
+
+<sub>📅 2026-05-27 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
