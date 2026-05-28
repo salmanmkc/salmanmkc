@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Change happens when the pain of holding on becomes greater than the fear of letting go."*
+> *"Falling down is not failure. Failure comes when you stay where you have fallen."*
 >
-> — **Spencer Johnson**
+> — **Socrates**
+
+<sub>📅 2026-05-28 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
