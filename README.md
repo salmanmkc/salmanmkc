@@ -42,16 +42,14 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **15°C** (feels 15°C) · Partly Cloudy  · 💧 72% · 💨 16 km/h · 🕐 08:25 BST
+🌤️ **23°C** (feels 24°C) · Overcast  · 💧 38% · 💨 20 km/h · 🕐 13:35 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"With self-discipline, almost anything is possible."*
+> *"Those who know, do. Those that understand, teach."*
 >
-> — **Theodore Roosevelt**
-
-<sub>📅 2026-05-31 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
+> — **Aristotle**
 <!-- QUOTE:END -->
 
 ---
@@ -62,12 +60,12 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 > One who is an inspiration to others; one who has achieved success in their chosen field; a leading light.
 
 ### 📅 On This Day
-📅 **1941** — World War II: German forces dropped four bombs on neutral Ireland, killing 28 people and damaging Áras an Uachtaráin, the residence of the President of Ireland. · [Read more](https://en.wikipedia.org/wiki/World_War_II)
+📅 **1223** — Mongol invasion of Kievan Rus': Mongol forces defeated a Kievan Rus' army at the Battle of the Kalka River in present-day Ukraine. · [Read more](https://en.wikipedia.org/wiki/Mongol_invasion_of_Kievan_Rus')
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
 
-🧠 Honey is the only food which does not spoil.
+🧠 the bird is the word
 
 ### 💡 Dev Tip of the Day
 💡 **Git**: Use `git stash -p` to selectively stash individual hunks instead of all changes.
@@ -89,4 +87,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-05-31 08:25 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-05-31 13:35 BST</sub>
