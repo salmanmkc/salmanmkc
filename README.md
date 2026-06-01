@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **20°C** (feels 20°C) · Patchy rain nearby · 💧 54% · 💨 18 km/h · 🕐 19:30 BST
+🌤️ **14°C** (feels 14°C) · Clear  · 💧 77% · 💨 11 km/h · 🕐 02:04 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Sometimes you will never know the value of something, until it becomes a memory."*
+> *"It is well known that those who do not trust themselves never trust others."*
 >
-> — **Dr. Seuss**
+> — **Alfred Adler**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**luminary** · /ˈluːmɪn(ə)ɹi/ · _noun_
-> One who is an inspiration to others; one who has achieved success in their chosen field; a leading light.
+**jubilee** · /dʒuːbɪˈliː/ · _noun_
+> (Jewish history) A special year of emancipation supposed to be kept every fifty years, when farming was abandoned and Hebrew slaves were set free.
 
 ### 📅 On This Day
-📅 **1223** — Mongol invasion of Kievan Rus': Mongol forces defeated a Kievan Rus' army at the Battle of the Kalka River in present-day Ukraine. · [Read more](https://en.wikipedia.org/wiki/Mongol_invasion_of_Kievan_Rus')
+📅 **1660** — Mary Dyer was hanged in Boston for repeatedly defying a law banning Quakers from the Massachusetts Bay Colony. · [Read more](https://en.wikipedia.org/wiki/Mary_Dyer)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,7 +68,7 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 the bird is the word
 
 ### 💡 Dev Tip of the Day
-💡 **Git**: Use `git stash -p` to selectively stash individual hunks instead of all changes.
+💡 **JavaScript**: Use `structuredClone(obj)` in JS for deep cloning — no more `JSON.parse(JSON.stringify())`.
 <!-- LEARN:END -->
 
 ---
@@ -80,11 +80,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🗑️ Delete in [`actions/runner`](https://github.com/actions/runner) · 3d ago
 🔀 merged PR in [`actions/runner`](https://github.com/actions/runner) · 3d ago
 🔀 opened PR in [`actions/runner`](https://github.com/actions/runner) · 3d ago
-🔒 ...and **2229** contributions to private repositories this year
+🔒 ...and **2228** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-05-31 19:30 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-06-01 02:04 BST</sub>
