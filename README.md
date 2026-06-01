@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Conscience is a dog that does not stop us from passing but that we cannot prevent from barking."*
+> *"Much learning does not teach understanding."*
 >
-> — **Nicolas Chamfort**
+> — **Heraclitus**
+
+<sub>📅 2026-06-01 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
