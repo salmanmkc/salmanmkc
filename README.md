@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **18°C** (feels 11°C) · Overcast  · 💧 69% · 💨 17 km/h · 🕐 20:42 BST
+🌤️ **15°C** (feels 8°C) · Light rain shower · 💧 97% · 💨 16 km/h · 🕐 02:03 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding."*
+> *"Weeds are flowers too, once you get to know them."*
 >
-> — **John D. Rockefeller**
+> — **A.A. Milne**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**jubilee** · /dʒuːbɪˈliː/ · _noun_
-> (Jewish history) A special year of emancipation supposed to be kept every fifty years, when farming was abandoned and Hebrew slaves were set free.
+**kaleidoscopic** · /kəˌlaɪdəˈskɒpɪk/ · _adjective_
+> Of, relating to, or produced by a kaleidoscope.
 
 ### 📅 On This Day
-📅 **1660** — Mary Dyer was hanged in Boston for repeatedly defying a law banning Quakers from the Massachusetts Bay Colony. · [Read more](https://en.wikipedia.org/wiki/Mary_Dyer)
+📅 **1805** — Napoleonic Wars: A Franco-Spanish fleet recaptured the British-held Diamond Rock, an uninhabited island at the entrance to the bay leading to Fort-de-France, Martinique. · [Read more](https://en.wikipedia.org/wiki/Napoleonic_Wars)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,7 +68,7 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 There was once an undersea post office in the Bahamas.
 
 ### 💡 Dev Tip of the Day
-💡 **JavaScript**: Use `structuredClone(obj)` in JS for deep cloning — no more `JSON.parse(JSON.stringify())`.
+💡 **TypeScript**: In TypeScript, `satisfies` checks a type without widening: `const x = {} satisfies Config`.
 <!-- LEARN:END -->
 
 ---
@@ -85,4 +85,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-06-01 20:42 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-06-02 02:03 BST</sub>
