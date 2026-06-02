@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Do something to move yourself toward your major goal every day."*
+> *"Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people."*
 >
-> — **Brian Tracy**
+> — **Roy T. Bennett**
+
+<sub>📅 2026-06-02 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
