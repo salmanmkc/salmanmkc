@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Life and the simple beauty of it is too good to pass up."*
+> *"In life you need either inspiration or desperation."*
 >
-> — **Christopher McCandless**
+> — **Tony Robbins**
+
+<sub>📅 2026-06-03 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
