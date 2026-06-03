@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **16°C** (feels 8°C) · Light rain shower · 💧 83% · 💨 19 km/h · 🕐 20:21 BST
+🌤️ **13°C** (feels 8°C) · Partly Cloudy  · 💧 93% · 💨 15 km/h · 🕐 02:09 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Pleasure is always derived from something outside you, whereas joy arises from within."*
+> *"Not until we are lost do we begin to understand ourselves."*
 >
-> — **Eckhart Tolle**
+> — **Henry David Thoreau**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**kaleidoscopic** · /kəˌlaɪdəˈskɒpɪk/ · _adjective_
-> Of, relating to, or produced by a kaleidoscope.
+**luminary** · /ˈluːmɪn(ə)ɹi/ · _noun_
+> One who is an inspiration to others; one who has achieved success in their chosen field; a leading light.
 
 ### 📅 On This Day
-📅 **1805** — Napoleonic Wars: A Franco-Spanish fleet recaptured the British-held Diamond Rock, an uninhabited island at the entrance to the bay leading to Fort-de-France, Martinique. · [Read more](https://en.wikipedia.org/wiki/Napoleonic_Wars)
+📅 **1940** — Franz Rademacher, a Nazi official, proposed that the island of Madagascar be made available as a destination for the resettlement of the Jewish population of Europe. · [Read more](https://en.wikipedia.org/wiki/Franz_Rademacher)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,7 +68,7 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 The skeleton of Jeremy Bentham is present at all important meetings of the University of London
 
 ### 💡 Dev Tip of the Day
-💡 **TypeScript**: In TypeScript, `satisfies` checks a type without widening: `const x = {} satisfies Config`.
+💡 **CLI**: `curl -s https://api.example.com | jq .` pretty-prints JSON responses in the terminal.
 <!-- LEARN:END -->
 
 ---
@@ -84,4 +84,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-06-02 20:21 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-06-03 02:09 BST</sub>
