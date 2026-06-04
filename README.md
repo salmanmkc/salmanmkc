@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Anger exceeding limits causes fear and excessive kindness eliminates respect."*
+> *"Because of your smile, you make life more beautiful."*
 >
-> — **Euripides**
+> — **Thich Nhat Hanh**
+
+<sub>📅 2026-06-04 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
