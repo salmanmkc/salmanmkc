@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"All that a man achieves and all that he fails to achieve is the direct result of his own thoughts."*
+> *"The more you trust yourself, the less you compare yourself to others."*
 >
-> — **James Allen**
+> — **Roy T. Bennett**
+
+<sub>📅 2026-06-05 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
