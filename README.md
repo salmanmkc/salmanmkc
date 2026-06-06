@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"If a man knows not to which port he sails, no wind is favorable."*
+> *"The future is no more uncertain than the present."*
 >
-> — **Seneca**
+> — **Walt Whitman**
+
+<sub>📅 2026-06-06 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
