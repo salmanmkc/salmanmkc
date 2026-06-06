@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-⛅ **17°C** (feels 17°C) · Partly cloudy · 💧 45% · 💨 17 km/h · 🕐 19:45 BST
+🌤️ **13°C** (feels 12°C) · Light Drizzle · 💧 72% · 💨 14 km/h · 🕐 01:57 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"As a matter of fact is an expression that precedes many an expression that isn't."*
+> *"There are no limitations to the mind except those we acknowledge..."*
 >
-> — **Laurence J. Peter**
+> — **Napoleon Hill**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**nomenclature** · /nəʊˈmɛn.klətʃə/ · _noun_
-> A set of rules used for forming the names or terms in a particular field of arts or sciences.
+**omniscient** · /ɒmˈnɪsɪənt/ · _noun_
+> One who has total knowledge.
 
 ### 📅 On This Day
-📅 **2001** — Tropical Storm Allison, the costliest Atlantic tropical cyclone that was never a hurricane, made landfall in Texas, causing approximately $8.5 billion in damage. · [Read more](https://en.wikipedia.org/wiki/Tropical_Storm_Allison)
+📅 **1674** — Shivaji, who led a resistance to free the Maratha from the Bijapur Sultanate and the Mughal Empire, was crowned the first chhatrapati of the Maratha Empire. · [Read more](https://en.wikipedia.org/wiki/Shivaji)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,23 +68,23 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 A pig`s orgasm lasts for 30 minutes.
 
 ### 💡 Dev Tip of the Day
-💡 **Git**: `git switch -` switches to your previous branch — like `cd -` for git.
+💡 **JavaScript**: Use `performance.now()` instead of `Date.now()` in JS for high-resolution timing.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · just now
-💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · just now
-💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · just now
-🔀 opened PR in [`google/xrblocks`](https://github.com/google/xrblocks) · just now
-🌿 Created branch in [`salmanmkc/xrblocks`](https://github.com/salmanmkc/xrblocks) · just now
-🔒 ...and **2235** contributions to private repositories this year
+🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 4h ago
+🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 5h ago
+📋 PullRequestReviewComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 7h ago
+🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 5h ago
+📋 PullRequestReviewComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 7h ago
+🔒 ...and **2238** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-06-05 19:45 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-06-06 01:57 BST</sub>
