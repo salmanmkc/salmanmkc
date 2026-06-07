@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"You know you are on the road to success if you would do your job and not be paid for it."*
+> *"Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility."*
 >
-> — **Oprah Winfrey**
+> — **Sigmund Freud**
+
+<sub>📅 2026-06-07 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
