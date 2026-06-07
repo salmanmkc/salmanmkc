@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **15°C** (feels 15°C) · Light Drizzle, Rain · 💧 88% · 💨 26 km/h · 🕐 19:32 BST
+⛅ **13°C** (feels 11°C) · Partly cloudy · 💧 77% · 💨 22 km/h · 🕐 02:03 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Without education, we are in a horrible and deadly danger of taking educated people seriously."*
+> *"Our view of the world is truly shaped by what we decide to hear."*
 >
-> — **Gilbert Chesterton**
+> — **William James**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**omniscient** · /ɒmˈnɪsɪənt/ · _noun_
-> One who has total knowledge.
+**polyglot** · /ˈpɒliːɡlɒt/ · _noun_
+> One who has mastered, notably speaks, several languages.
 
 ### 📅 On This Day
-📅 **1674** — Shivaji, who led a resistance to free the Maratha from the Bijapur Sultanate and the Mughal Empire, was crowned the first chhatrapati of the Maratha Empire. · [Read more](https://en.wikipedia.org/wiki/Shivaji)
+📅 **1969** — In their only UK concert, the rock supergroup Blind Faith, featuring Eric Clapton, Steve Winwood and Ginger Baker, debuted in London's Hyde Park in front of 100,000 fans. · [Read more](https://en.wikipedia.org/wiki/Blind_Faith)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,18 +68,18 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 The flea can jump 350 times its body length. It's like a human jumping the length of a football field.
 
 ### 💡 Dev Tip of the Day
-💡 **JavaScript**: Use `performance.now()` instead of `Date.now()` in JS for high-resolution timing.
+💡 **Bash**: In Bash, `!!` repeats the last command. `sudo !!` re-runs it with sudo.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-🔀 opened PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 13h ago
-🔀 opened PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 14h ago
-🌿 Created branch in [`salmanmkc/xrblocks`](https://github.com/salmanmkc/xrblocks) · 14h ago
-🔀 opened PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 15h ago
-🌿 Created branch in [`salmanmkc/xrblocks`](https://github.com/salmanmkc/xrblocks) · 15h ago
+🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 2h ago
+🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 2h ago
+🔀 opened PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 19h ago
+🔀 opened PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 21h ago
+🌿 Created branch in [`salmanmkc/xrblocks`](https://github.com/salmanmkc/xrblocks) · 21h ago
 🔒 ...and **2238** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
@@ -87,4 +87,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-06-06 19:32 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-06-07 02:03 BST</sub>
