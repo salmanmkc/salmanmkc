@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"True it is, we only hate those whom we do not know."*
+> *"See what you're doing wrong, laugh at it, change and do better."*
 >
-> — **Andrew Carnegie**
+> — **Spencer Johnson**
+
+<sub>📅 2026-06-08 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
