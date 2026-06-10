@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Choose to be optimistic, it feels better."*
+> *"The more perfect a person is on the outside, the more demons they have on the inside."*
 >
-> — **Dalai Lama**
+> — **Sigmund Freud**
+
+<sub>📅 2026-06-10 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
