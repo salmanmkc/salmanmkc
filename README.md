@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Happiness is when what you think, what you say, and what you do are in harmony."*
+> *"The chief enemy of creativity is good sense."*
 >
-> — **Mahatma Gandhi**
+> — **Pablo Picasso**
+
+<sub>📅 2026-06-11 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
