@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-☁️ **16°C** (feels 16°C) · Overcast · 💧 94% · 💨 19 km/h · 🕐 20:06 BST
+☁️ **16°C** (feels 16°C) · Overcast · 💧 88% · 💨 18 km/h · 🕐 02:06 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Simplicity is the soul of efficiency."*
+> *"There are more people who wish to be loved than there are who are willing to love."*
 >
-> — **Austin Freeman**
+> — **Nicolas Chamfort**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**scintilla** · /sɪnˈtɪlə/ · _noun_
-> A small spark or flash.
+**terrestrial** · /təˈɹɛstɹi.əl/ · _noun_
+> An inhabitant of the planet Earth.
 
 ### 📅 On This Day
-📅 **806** — Arab–Byzantine wars: The Abbasid army departed Raqqa in northern Syria to begin an invasion of Byzantine-controlled Asia Minor. · [Read more](https://en.wikipedia.org/wiki/Arab%E2%80%93Byzantine_wars)
+📅 **1981** — Raiders of the Lost Ark, the first film to star Harrison Ford as Indiana Jones, was released. · [Read more](https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,16 +68,16 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 During the chariot scene in "Ben Hur," a small red car can be seen in the distance.
 
 ### 💡 Dev Tip of the Day
-💡 **Git**: Use `git bisect` to binary-search for the commit that introduced a bug.
+💡 **JavaScript**: The `??` (nullish coalescing) operator in JS only falls back on `null`/`undefined`, not `0` or `""`.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-🔀 merged PR in [`amantus-ai/vibetunnel`](https://github.com/amantus-ai/vibetunnel) · 6h ago
-🔀 merged PR in [`aaif-goose/vscode-goose`](https://github.com/aaif-goose/vscode-goose) · 12h ago
-🔀 merged PR in [`aaif-goose/vscode-goose`](https://github.com/aaif-goose/vscode-goose) · 12h ago
+🔀 merged PR in [`amantus-ai/vibetunnel`](https://github.com/amantus-ai/vibetunnel) · 12h ago
+🔀 merged PR in [`aaif-goose/vscode-goose`](https://github.com/aaif-goose/vscode-goose) · 18h ago
+🔀 merged PR in [`aaif-goose/vscode-goose`](https://github.com/aaif-goose/vscode-goose) · 18h ago
 🌿 Created branch in [`salmanmkc/xrblocks`](https://github.com/salmanmkc/xrblocks) · 2d ago
 👀 PullRequestReview in [`google/xrblocks`](https://github.com/google/xrblocks) · 2d ago
 🔒 ...and **2230** contributions to private repositories this year
@@ -87,4 +87,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-06-11 20:06 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-06-12 02:06 BST</sub>
