@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."*
+> *"We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities."*
 >
-> — **Paulo Coelho**
+> — **Josh Waitzkin**
+
+<sub>📅 2026-06-12 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
