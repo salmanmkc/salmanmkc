@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"It's easy to be a critic, but being a doer requires effort, risk, and change."*
+> *"If you think you can do a thing or think you can't do a thing, you're right."*
 >
-> — **Wayne Dyer**
+> — **Henry Ford**
+
+<sub>📅 2026-06-13 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
