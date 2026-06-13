@@ -42,25 +42,27 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **20°C** (feels 20°C) · Partly Cloudy  · 💧 56% · 💨 21 km/h · 🕐 19:46 BST
+🌤️ **13°C** (feels 12°C) · Clear  · 💧 88% · 💨 15 km/h · 🕐 02:04 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Life doesn't get easier or more forgiving, we get stronger and more resilient."*
+> *"Life goes by fast. Enjoy it. Calm down. It's all funny."*
 >
-> — **Steve Maraboli**
+> — **Joan Rivers**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**terrestrial** · /təˈɹɛstɹi.əl/ · _noun_
-> An inhabitant of the planet Earth.
+**unequivocal** · /ʌnɨˈkwɪvəkəl/ · _adjective_
+> Unambiguous; without equivocation or ambiguity; singularly clear, unmistakable, or unquestionable
+>
+> _"I want you to give me an unequivocal guarantee on that."_
 
 ### 📅 On This Day
-📅 **1981** — Raiders of the Lost Ark, the first film in the Indiana Jones franchise, was released. · [Read more](https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark)
+📅 **1969** — Preston Smith, Governor of Texas, signed a law converting a research arm of Texas Instruments into the University of Texas at Dallas. · [Read more](https://en.wikipedia.org/wiki/Preston_Smith_(governor))
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,18 +70,18 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 Salt Lake City, Utah has a law against carrying an unwrapped ukulele on the street.
 
 ### 💡 Dev Tip of the Day
-💡 **JavaScript**: The `??` (nullish coalescing) operator in JS only falls back on `null`/`undefined`, not `0` or `""`.
+💡 **Bash**: In Bash, `set -euo pipefail` at the top of scripts catches errors, unset variables, and pipe failures.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-🔀 merged PR in [`xrblocks/evals`](https://github.com/xrblocks/evals) · 2h ago
-🔀 opened PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 9h ago
-🌿 Created branch in [`salmanmkc/xrblocks`](https://github.com/salmanmkc/xrblocks) · 9h ago
-💬 IssueComment in [`xrblocks/evals`](https://github.com/xrblocks/evals) · 9h ago
-🔀 opened PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 11h ago
+🔀 merged PR in [`xrblocks/evals`](https://github.com/xrblocks/evals) · 9h ago
+🔀 opened PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 15h ago
+🌿 Created branch in [`salmanmkc/xrblocks`](https://github.com/salmanmkc/xrblocks) · 15h ago
+💬 IssueComment in [`xrblocks/evals`](https://github.com/xrblocks/evals) · 15h ago
+🔀 opened PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 18h ago
 🔒 ...and **2234** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
@@ -87,4 +89,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-06-12 19:46 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-06-13 02:04 BST</sub>
