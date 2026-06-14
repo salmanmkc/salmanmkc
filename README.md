@@ -42,16 +42,14 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-☀️ **12°C** (feels 11°C) · Sunny · 💧 82% · 💨 13 km/h · 🕐 08:43 BST
+🌤️ **19°C** (feels 19°C) · Cloudy  · 💧 52% · 💨 13 km/h · 🕐 13:46 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"You can't climb the ladder of success with your hands in your pockets."*
+> *"Listening well is as powerful as talking well, and is also as essential to true conversation."*
 >
-> — **Arnold Schwarzenegger**
-
-<sub>📅 2026-06-14 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
+> — **Chinese Proverb**
 <!-- QUOTE:END -->
 
 ---
@@ -67,7 +65,7 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
 
-🧠 Half the foods eaten throughout the world today were developed by farmers in the Andes Mountains (including potatoes, maize, sweet potatoes, squash, all varieties of beans, peanuts, manioc, papayas, strawberries, mulberries and many others).
+🧠 More than 50% of the people in the world have never made or received a telephone call.
 
 ### 💡 Dev Tip of the Day
 💡 **Git**: Use `git log --oneline --graph --all` for a beautiful ASCII branch visualisation.
@@ -77,11 +75,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
+🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 5h ago
 ⭐ Starred [`xrblocks/evals`](https://github.com/xrblocks/evals) · 1d ago
 🔀 merged PR in [`xrblocks/evals`](https://github.com/xrblocks/evals) · 2d ago
 🔀 opened PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 2d ago
 🌿 Created branch in [`salmanmkc/xrblocks`](https://github.com/salmanmkc/xrblocks) · 2d ago
-💬 IssueComment in [`xrblocks/evals`](https://github.com/xrblocks/evals) · 2d ago
 🔒 ...and **2234** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
@@ -89,4 +87,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-06-14 08:43 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-06-14 13:46 BST</sub>
