@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"No man will make a great leader who wants to do it all himself or to get all the credit for doing it."*
+> *"You can't climb the ladder of success with your hands in your pockets."*
 >
-> — **Andrew Carnegie**
+> — **Arnold Schwarzenegger**
+
+<sub>📅 2026-06-14 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
