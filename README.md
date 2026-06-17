@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Giving is living. If you stop wanting to give, there's nothing more to live for."*
+> *"Don't risk what is important to you, to get what is not important to you."*
 >
-> — **Audrey Hepburn**
+> — **Warren Buffett**
+
+<sub>📅 2026-06-17 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
