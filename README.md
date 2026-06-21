@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Where we fall are the stepping-stones for our journey."*
+> *"When you are totally at peace with yourself, nothing can shake you."*
 >
-> — **Lolly Daskal**
+> — **Deepam Chaterjee**
+
+<sub>📅 2026-06-21 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
