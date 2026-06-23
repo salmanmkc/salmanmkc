@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **25°C** (feels 26°C) · Rain Shower · 💧 61% · 💨 18 km/h · 🕐 20:12 BST
+⛅ **20°C** (feels 20°C) · Partly cloudy · 💧 73% · 💨 11 km/h · 🕐 01:56 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"The degree of responsibility you take for your life determines how much change you can create in it."*
+> *"A good salesman is like a good cook—he can create an appetite when the buyer isn't hungry."*
 >
-> — **Celestine Chua**
+> — **George Lorimer**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**redolent** · /ˈɹɛd.əl.ənt/ · _adjective_
-> Fragrant or aromatic; having a sweet scent.
+**ebullience** · /-ˈbʌl-/ · _noun_
+> A boiling or bubbling up; an ebullition.
 
 ### 📅 On This Day
-📅 **1979** — Former British Liberal Party leader Jeremy Thorpe was acquitted of conspiracy to murder Norman Scott, who had accused Thorpe of having a relationship with him. · [Read more](https://en.wikipedia.org/wiki/Liberal_Party_(UK))
+📅 **1887** — The Parliament of Canada passed the Rocky Mountains Park Act, creating Banff National Park (pictured) in Alberta as the country's first national park. · [Read more](https://en.wikipedia.org/wiki/Parliament_of_Canada)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,18 +68,18 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 Negative emotions such as anxiety and depression can weaken your immune system.
 
 ### 💡 Dev Tip of the Day
-💡 **VS Code**: `Cmd/Ctrl + D` in VS Code selects the next occurrence of the current selection — multi-cursor editing.
+💡 **SQL**: In SQL, `COALESCE(col1, col2, 'default')` returns the first non-NULL value in the list.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
+🔀 opened PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 3d ago
+🔀 opened PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 3d ago
 🌿 Created branch in [`salmanmkc/xrblocks`](https://github.com/salmanmkc/xrblocks) · 3d ago
 🌿 Created branch in [`salmanmkc/xrblocks`](https://github.com/salmanmkc/xrblocks) · 3d ago
-🗑️ Delete in [`actions/runner`](https://github.com/actions/runner) · 3d ago
-🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 4d ago
-🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 4d ago
+🗑️ Delete in [`actions/runner`](https://github.com/actions/runner) · 4d ago
 🔒 ...and **2220** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
@@ -87,4 +87,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-06-22 20:12 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-06-23 01:56 BST</sub>
