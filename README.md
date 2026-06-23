@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Every failure brings with it the seed of an equivalent success."*
+> *"People learn from their failures. Seldom do they learn anything from success."*
 >
-> — **Napoleon Hill**
+> — **Ryan Holiday**
+
+<sub>📅 2026-06-23 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
