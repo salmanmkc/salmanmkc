@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"The best way to predict the future is to invent it."*
+> *"The best mind-altering drug is the truth."*
 >
-> — **Alan Kay**
+> — **Lily Tomlin**
+
+<sub>📅 2026-06-24 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
