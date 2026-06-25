@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."*
+> *"The way of success is the way of continuous pursuit of knowledge."*
 >
-> — **Aristotle**
+> — **Napoleon Hill**
+
+<sub>📅 2026-06-25 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
