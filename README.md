@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"There's a very deep connection among human beings. All we have to do is open our minds to it."*
+> *"When you want something in life, you just gotta reach out and grab it."*
 >
-> — **Yanni**
+> — **Christopher McCandless**
+
+<sub>📅 2026-06-27 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
