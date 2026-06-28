@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Educating the mind without educating the heart is no education at all."*
+> *"If you want to make God laugh, tell him about your plans."*
 >
-> — **Aristotle**
+> — **Woody Allen**
+
+<sub>📅 2026-06-28 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
