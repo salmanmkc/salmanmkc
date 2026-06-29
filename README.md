@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"It is not as important how we start, but how we finish."*
+> *"Be where your enemy is not."*
 >
-> — **Joyce Meyer**
+> — **Sun Tzu**
+
+<sub>📅 2026-06-29 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
