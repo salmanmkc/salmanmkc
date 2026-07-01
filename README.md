@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage."*
+> *"Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace."*
 >
-> — **Celestine Chua**
+> — **Earl Nightingale**
+
+<sub>📅 2026-07-01 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
