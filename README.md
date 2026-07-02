@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich."*
+> *"The only way to do great work is to love what you do."*
 >
-> — **Carlos Ruiz Zafon**
+> — **Steve Jobs**
+
+<sub>📅 2026-07-02 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
