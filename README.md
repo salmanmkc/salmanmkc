@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **26°C** (feels 26°C) · Partly Cloudy  · 💧 39% · 💨 18 km/h · 🕐 19:44 BST
+🌤️ **17°C** (feels 17°C) · Clear  · 💧 63% · 💨 16 km/h · 🕐 01:57 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"The important thing is not what one is born with but what use one makes of that equipment."*
+> *"A leader leads by example, not by force."*
 >
-> — **Alfred Adler**
+> — **Sun Tzu**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**catharsis** · /kəˈθɑːsɪs/ · _noun_
-> A release of emotional tension after an overwhelming vicarious experience, resulting in the purging or purification of the emotions, as through watching a dramatic production (especially a tragedy).
+**synchronicity** · _noun_
+> The state of being synchronous or simultaneous.
 
 ### 📅 On This Day
-📅 **1979** — Sony introduced the Walkman, a portable audio player that changed listening habits by offering users the ability to play one's own choice of music. · [Read more](https://en.wikipedia.org/wiki/Sony)
+📅 **1644** — First English Civil War: The combined forces of Scottish Covenanters and English Parliamentarians defeated Royalist troops at the Battle of Marston Moor. · [Read more](https://en.wikipedia.org/wiki/First_English_Civil_War)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,18 +68,17 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 Because metal was scarce, the Oscars given out during World War II were made of wood.
 
 ### 💡 Dev Tip of the Day
-💡 **Docker**: In Docker, multi-stage builds keep your final image small: use `COPY --from=build`.
+💡 **GitHub Actions**: Use GitHub Actions `concurrency` to cancel in-progress runs on new pushes.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 11h ago
+💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 17h ago
 🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 2d ago
 🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 2d ago
 🔀 opened PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 3d ago
-🌿 Created branch in [`salmanmkc/xrblocks`](https://github.com/salmanmkc/xrblocks) · 3d ago
 🔒 ...and **2221** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
@@ -87,4 +86,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-07-01 19:44 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-07-02 01:57 BST</sub>
