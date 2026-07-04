@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy."*
+> *"Life is about choice. You can choose to be a victim or anything else you like to be."*
 >
-> — **Elon Musk**
+> — **Celestine Chua**
+
+<sub>📅 2026-07-04 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
