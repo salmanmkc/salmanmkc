@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Open your eyes and look within. Are you satisfied with the life you're living?"*
+> *"Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people."*
 >
-> — **Bob Marley**
+> — **Roy T. Bennett**
+
+<sub>📅 2026-07-06 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
