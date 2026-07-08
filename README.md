@@ -42,27 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-☀️ **30°C** (feels 29°C) · Sunny · 💧 31% · 💨 15 km/h · 🕐 19:44 BST
+🌤️ **24°C** (feels 26°C) · Clear  · 💧 50% · 💨 11 km/h · 🕐 01:40 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"You can do two things at once, but you can't focus effectively on two things at once."*
+> *"We become what we believe."*
 >
-> — **Gary Keller**
+> — **Lolly Daskal**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**sonorous** · /ˈsɒn.əɹ.əs/ · _adjective_
-> Capable of giving out a deep, resonant sound.
->
-> _"The highlight of the hike was the sonorous cave, which produced a ringing echo from the hiker’s shouts."_
+**pernicious** · /pəˈnɪʃəs/ · _adjective_
+> Causing much harm in a subtle way.
 
 ### 📅 On This Day
-📅 **1911** — Four countries signed the North Pacific Fur Seal Convention, which banned the hunting of seals in the pelagic zone. · [Read more](https://en.wikipedia.org/wiki/North_Pacific_Fur_Seal_Convention_of_1911)
+📅 **1962** — Following student protests at Rangoon University, Burmese general Ne Win ordered the demolition of the historic students' union building. · [Read more](https://en.wikipedia.org/wiki/1962_Rangoon_University_protests)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -70,14 +68,14 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.
 
 ### 💡 Dev Tip of the Day
-💡 **Git**: Use `git bisect` to binary-search for the commit that introduced a bug.
+💡 **JavaScript**: The `??` (nullish coalescing) operator in JS only falls back on `null`/`undefined`, not `0` or `""`.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-🔀 merged PR in [`QwenLM/qwen-code`](https://github.com/QwenLM/qwen-code) · 6h ago
+🔀 merged PR in [`QwenLM/qwen-code`](https://github.com/QwenLM/qwen-code) · 12h ago
 🔒 ...and **2196** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
@@ -85,4 +83,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-07-07 19:44 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-07-08 01:40 BST</sub>
