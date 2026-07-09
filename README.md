@@ -42,25 +42,27 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-☀️ **32°C** (feels 32°C) · Sunny · 💧 30% · 💨 10 km/h · 🕐 19:33 BST
+🌤️ **23°C** (feels 25°C) · Clear  · 💧 61% · 💨 9 km/h · 🕐 01:45 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Motivation is what gets you started. Habit is what keeps you going."*
+> *"There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow."*
 >
-> — **Jim Rohn**
+> — **Orison Swett Marden**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**pernicious** · /pəˈnɪʃəs/ · _adjective_
-> Causing much harm in a subtle way.
+**taciturn** · /ˈtæsɪtɜːn/ · _adjective_
+> Silent; temperamentally untalkative; disinclined to speak.
+>
+> _"The two sisters could hardly have been more different, one so boisterous and expressive, the other so taciturn and calm."_
 
 ### 📅 On This Day
-📅 **1962** — Following student protests at Rangoon University, Burmese general Ne Win ordered the demolition of the historic students' union building. · [Read more](https://en.wikipedia.org/wiki/1962_Rangoon_University_protests)
+📅 **1896** — Politician William Jennings Bryan made his Cross of Gold speech advocating bimetallism, considered one of the greatest political speeches in American history. · [Read more](https://en.wikipedia.org/wiki/William_Jennings_Bryan)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,15 +70,15 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 "Stewardesses" is the longest word typed with only the left hand.
 
 ### 💡 Dev Tip of the Day
-💡 **JavaScript**: The `??` (nullish coalescing) operator in JS only falls back on `null`/`undefined`, not `0` or `""`.
+💡 **Bash**: In Bash, `set -euo pipefail` at the top of scripts catches errors, unset variables, and pipe failures.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 7h ago
-🔀 merged PR in [`QwenLM/qwen-code`](https://github.com/QwenLM/qwen-code) · 1d ago
+💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 13h ago
+🔀 merged PR in [`QwenLM/qwen-code`](https://github.com/QwenLM/qwen-code) · 2d ago
 🔒 ...and **2196** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
@@ -84,4 +86,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-07-08 19:33 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-07-09 01:45 BST</sub>
