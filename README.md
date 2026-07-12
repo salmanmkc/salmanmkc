@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Nothing good ever comes of violence."*
+> *"A man sees in the world what he carries in his heart."*
 >
-> — **Martin Luther**
+> — **Johann Wolfgang von Goethe**
+
+<sub>📅 2026-07-12 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
