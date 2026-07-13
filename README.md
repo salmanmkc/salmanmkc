@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love."*
+> *"Help others and give something back."*
 >
-> — **Dr. Seuss**
+> — **Arnold Schwarzenegger**
+
+<sub>📅 2026-07-13 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
