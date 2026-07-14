@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-☀️ **26°C** (feels 26°C) · Sunny · 💧 48% · 💨 23 km/h · 🕐 19:36 BST
+🌤️ **18°C** (feels 18°C) · Cloudy  · 💧 77% · 💨 18 km/h · 🕐 01:37 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"As you think, so shall you become."*
+> *"There are no mistakes in life, only lessons."*
 >
-> — **Bruce Lee**
+> — **Robin Sharma**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**tableau** · /ˈtæ.bləʊ/ · _noun_
-> A striking and vivid representation; a picture.
+**umbra** · /ˈʌmbɹə/ · _noun_
+> The fully shaded inner region of a shadow cast by an opaque object.
 
 ### 📅 On This Day
-📅 **2014** — Germany won the FIFA World Cup final against Argentina, with Mario Götze scoring the game's only goal (pictured) in the extra time. · [Read more](https://en.wikipedia.org/wiki/Germany_national_football_team)
+📅 **1223** — Louis VIII (seal pictured) began his three-year reign as King of France. · [Read more](https://en.wikipedia.org/wiki/Louis_VIII_of_France)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,16 +68,16 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 Any free-moving liquid in outer space will form itself into a sphere, because of its surface tension.
 
 ### 💡 Dev Tip of the Day
-💡 **Git**: `git reflog` shows your local history of HEAD changes — great for recovering "lost" commits.
+💡 **GitHub**: Use `<details>` and `<summary>` HTML tags in GitHub markdown for collapsible sections.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 7h ago
-💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 7h ago
-💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 7h ago
+💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 13h ago
+💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 13h ago
+💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 13h ago
 🔒 ...and **2150** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
@@ -85,4 +85,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-07-13 19:36 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-07-14 01:37 BST</sub>
