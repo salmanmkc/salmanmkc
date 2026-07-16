@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed."*
+> *"Anyone who reads a book with a sense of obligation does not understand the art of reading."*
 >
-> — **Lily Tomlin**
+> — **Lin Yutang**
+
+<sub>📅 2026-07-16 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
