@@ -47,11 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future."*
+> *"Once a decision was made, I didn't worry about it afterward."*
 >
-> — **Earl Nightingale**
+> — **Harry S. Truman**
 
-<sub>📅 2026-07-19 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
+<sub>📅 2026-07-20 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
