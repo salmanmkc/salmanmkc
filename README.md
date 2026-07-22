@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome."*
+> *"Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you."*
 >
-> — **Tony Robbins**
+> — **Jeffrey Gitomer**
+
+<sub>📅 2026-07-22 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
