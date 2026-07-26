@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Try all things, hold fast that which is good."*
+> *"As soon as you truly commit to making something happen, the 'how' will reveal itself."*
 >
-> — **John Locke**
+> — **Tony Robbins**
+
+<sub>📅 2026-07-26 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
