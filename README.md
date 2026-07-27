@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence."*
+> *"Many a man has failed because he had his wishbone where his backbone should have been."*
 >
-> — **Josh Waitzkin**
+> — **Ronald Reagan**
+
+<sub>📅 2026-07-27 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
