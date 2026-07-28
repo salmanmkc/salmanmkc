@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Poverty and hardship are created by false thinking."*
+> *"By the practice of meditation, you will find that you are carrying within your heart a portable paradise."*
 >
-> — **Bodhidharma**
+> — **Paramahansa Yogananda**
+
+<sub>📅 2026-07-28 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
