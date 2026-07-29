@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Fool me once, shame on you; fool me twice, shame on me."*
+> *"We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet."*
 >
-> — **Chinese Proverb**
+> — **Thich Nhat Hanh**
+
+<sub>📅 2026-07-29 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
