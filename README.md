@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"The more I want to get something done, the less I call it work."*
+> *"The wise accomplish all that they want without arousing the envy or scorn of others."*
 >
-> — **Richard Bach**
+> — **Ming-Dao Deng**
+
+<sub>📅 2026-07-30 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
