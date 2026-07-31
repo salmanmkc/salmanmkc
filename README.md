@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"If you truly expect something to be difficult, it will be."*
+> *"The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it."*
 >
-> — **Peter A. Cohen**
+> — **Colin R. Davis**
+
+<sub>📅 2026-07-31 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
