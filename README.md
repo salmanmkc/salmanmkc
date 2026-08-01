@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Don't let what you cannot do interfere with what you can do."*
+> *"Success is liking yourself, liking what you do, and liking how you do it."*
 >
-> — **John Wooden**
+> — **Maya Angelou**
+
+<sub>📅 2026-08-01 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
