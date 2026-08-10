@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude."*
+> *"If I can stop one heart from breaking, I shall not live in vain."*
 >
-> — **Robert Greene**
+> — **Emily Dickinson**
+
+<sub>📅 2026-08-10 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
