@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"You'll see it when you believe it."*
+> *"Within every obstacle is an opportunity to improve our condition."*
 >
-> — **Wayne Dyer**
+> — **Ryan Holiday**
+
+<sub>📅 2026-08-11 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
