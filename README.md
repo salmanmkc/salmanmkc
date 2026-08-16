@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Seek not the good in external things;seek it in yourselves."*
+> *"Don't give up the fight, Stand up for your rights."*
 >
-> — **Epictetus**
+> — **Bob Marley**
+
+<sub>📅 2026-08-16 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
