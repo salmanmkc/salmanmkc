@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"He who leaves the game wins it."*
+> *"Every poem should remind the reader that they are going to die."*
 >
-> — **Nicolas Chamfort**
+> — **Edgar Allan Poe**
+
+<sub>📅 2026-08-17 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
