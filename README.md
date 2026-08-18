@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"The heart wants what it wants - or else it does not care."*
+> *"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."*
 >
-> — **Emily Dickinson**
+> — **Colin R. Davis**
+
+<sub>📅 2026-08-18 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
