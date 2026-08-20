@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Quality is more important than quantity. One home run is much better than two doubles."*
+> *"We must be free not because we claim freedom, but because we practice it."*
 >
-> — **Steve Jobs**
+> — **William Faulkner**
+
+<sub>📅 2026-08-20 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
