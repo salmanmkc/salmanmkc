@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **22°C** (feels 18°C) · Overcast  · 💧 37% · 💨 16 km/h · 🕐 19:10 BST
+🌤️ **15°C** (feels 13°C) · Patchy rain nearby · 💧 76% · 💨 14 km/h · 🕐 01:17 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Always keep your eyes open. Keep watching. Because whatever you see can inspire you."*
+> *"It does not do to dwell on dreams and forget to live, remember that."*
 >
-> — **Grace Coddington**
+> — **Albus Dumbledore**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**jurisprudence** · /ˈdʒʊəɹɪsˌpɹuːdəns/ · _noun_
-> The theoretical study of law.
+**kinesthetic**
+> A fascinating word worth looking up!
 
 ### 📅 On This Day
-📅 **1892** — Celtic Park, the largest football stadium in Scotland and home of Celtic F.C., opened. · [Read more](https://en.wikipedia.org/wiki/Celtic_Park)
+📅 **1808** — Peninsular War: British and Portuguese forces put an end to the first French invasion of Portugal at the Battle of Vimeiro. · [Read more](https://en.wikipedia.org/wiki/Peninsular_War)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,15 +68,15 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 In space, astronauts cannot cry, because there is no gravity, so the tears can't flow.
 
 ### 💡 Dev Tip of the Day
-💡 **Python**: In Python, use `f"{value:,}"` to format numbers with commas: `f"{1000000:,}"` → `"1,000,000"`.
+💡 **VS Code**: `Ctrl+Shift+P` in VS Code opens the Command Palette — the fastest way to do anything.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-🌿 Created branch in [`salmanmkc/xrblocks`](https://github.com/salmanmkc/xrblocks) · 18h ago
-🔀 opened PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 17h ago
+🌿 Created branch in [`salmanmkc/xrblocks`](https://github.com/salmanmkc/xrblocks) · 1d ago
+🔀 opened PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 23h ago
 👀 PullRequestReview in [`actions/runner`](https://github.com/actions/runner) · 3d ago
 🗑️ Delete in [`actions/runner`](https://github.com/actions/runner) · 3d ago
 👀 PullRequestReview in [`actions/runner`](https://github.com/actions/runner) · 3d ago
@@ -87,4 +87,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-08-20 19:10 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-08-21 01:17 BST</sub>
