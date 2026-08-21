@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Great things are not done by impulse, but by a series of small things brought together."*
+> *"An investment in knowledge pays the best interest."*
 >
-> — **Vincent van Gogh**
+> — **Benjamin Franklin**
+
+<sub>📅 2026-08-21 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
