@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Progress comes to those who train and train; reliance on secret techniques will get you nowhere."*
+> *"Hold yourself responsible for a higher standard than anybody else expects of you."*
 >
-> — **Morihei Ueshiba**
+> — **Henry Ward Beecher**
+
+<sub>📅 2026-08-22 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
