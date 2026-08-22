@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **19°C** (feels 16°C) · Overcast  · 💧 40% · 💨 13 km/h · 🕐 19:09 BST
+🌤️ **15°C** (feels 12°C) · Patchy rain nearby · 💧 70% · 💨 14 km/h · 🕐 01:16 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Growing up is losing some illusions, in order to acquire others."*
+> *"Success and failure come and go, but don't let them define you. It's who you are that matters."*
 >
-> — **Virginia Woolf**
+> — **Kamal Ravikant**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**kinesthetic** · /ˌkɪnɪsˈθɛtɪk/ · _adjective_
-> Of or relating to kinesthesia.
+**magniloquent**
+> A fascinating word worth looking up!
 
 ### 📅 On This Day
-📅 **1808** — Peninsular War: British and Portuguese forces put an end to the first French invasion of Portugal at the Battle of Vimeiro. · [Read more](https://en.wikipedia.org/wiki/Peninsular_War)
+📅 **1642** — King Charles I raised the royal standard at Nottingham, marking the beginning of the First English Civil War. · [Read more](https://en.wikipedia.org/wiki/Charles_I_of_England)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,7 +68,7 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.
 
 ### 💡 Dev Tip of the Day
-💡 **VS Code**: `Ctrl+Shift+P` in VS Code opens the Command Palette — the fastest way to do anything.
+💡 **Git**: Use `git bisect` to binary-search for the commit that introduced a bug.
 <!-- LEARN:END -->
 
 ---
@@ -87,4 +87,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-08-21 19:09 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-08-22 01:16 BST</sub>
