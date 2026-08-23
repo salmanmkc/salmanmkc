@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Problems remain as problems because people are busy defending them rather than finding solutions."*
+> *"Believe you can and you're halfway there."*
 >
-> — **Celestine Chua**
+> — **Colin R. Davis**
+
+<sub>📅 2026-08-23 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
