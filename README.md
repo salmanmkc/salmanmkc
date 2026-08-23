@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **22°C** (feels 19°C) · Partly Cloudy  · 💧 29% · 💨 10 km/h · 🕐 19:06 BST
+🌤️ **16°C** (feels 14°C) · Overcast  · 💧 59% · 💨 10 km/h · 🕐 01:17 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Men go to far greater lengths to avoid what they fear than to obtain what they desire."*
+> *"Do you want to know who you are? Don't ask. Act! Action will delineate and define you."*
 >
-> — **Dan Brown**
+> — **Thomas Jefferson**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**magniloquent**
-> A fascinating word worth looking up!
+**nomenclature** · /nəʊˈmɛn.klətʃə/ · _noun_
+> A set of rules used for forming the names or terms in a particular field of arts or sciences.
 
 ### 📅 On This Day
-📅 **1642** — King Charles I raised the royal standard at Nottingham, marking the beginning of the First English Civil War. · [Read more](https://en.wikipedia.org/wiki/Charles_I_of_England)
+📅 **1954** — The Cruise of the Kings, a royal cruise organised by the Queen Consort of Greece, Frederica of Hanover, departed from Marseille, France. · [Read more](https://en.wikipedia.org/wiki/Cruise_of_the_Kings)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,7 +68,7 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 The ant always falls over on its right side when intoxicated.
 
 ### 💡 Dev Tip of the Day
-💡 **Git**: Use `git bisect` to binary-search for the commit that introduced a bug.
+💡 **JavaScript**: The `??` (nullish coalescing) operator in JS only falls back on `null`/`undefined`, not `0` or `""`.
 <!-- LEARN:END -->
 
 ---
@@ -84,4 +84,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-08-22 19:06 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-08-23 01:17 BST</sub>
