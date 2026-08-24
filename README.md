@@ -42,16 +42,14 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-☀️ **15°C** (feels 13°C) · Sunny · 💧 70% · 💨 13 km/h · 🕐 07:17 BST
+🌤️ **21°C** (feels 17°C) · Overcast  · 💧 43% · 💨 22 km/h · 🕐 13:11 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Perplexity is the beginning of knowledge."*
+> *"Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control."*
 >
-> — **Kahlil Gibran**
-
-<sub>📅 2026-08-24 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
+> — **Epictetus**
 <!-- QUOTE:END -->
 
 ---
@@ -67,7 +65,7 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
 
-🧠 IBM’s motto is “Think”. Apple later made their motto “Think different”.
+🧠 A snail can sleep for three years.
 
 ### 💡 Dev Tip of the Day
 💡 **Bash**: In Bash, `set -euo pipefail` at the top of scripts catches errors, unset variables, and pipe failures.
@@ -78,7 +76,7 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
 🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 1d ago
-🌿 Created branch in [`salmanmkc/xrblocks`](https://github.com/salmanmkc/xrblocks) · 4d ago
+🌿 Created branch in [`salmanmkc/xrblocks`](https://github.com/salmanmkc/xrblocks) · 5d ago
 🔀 opened PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 4d ago
 🔒 ...and **2151** contributions to private repositories this year
 <!-- ACTIVITY:END -->
@@ -87,4 +85,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-08-24 07:17 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-08-24 13:11 BST</sub>
