@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Take care of your body. It's the only place you have to live."*
+> *"Perplexity is the beginning of knowledge."*
 >
-> — **Jim Rohn**
+> — **Kahlil Gibran**
+
+<sub>📅 2026-08-24 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
