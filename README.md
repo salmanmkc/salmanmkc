@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **23°C** (feels 20°C) · Partly Cloudy  · 💧 33% · 💨 14 km/h · 🕐 19:06 BST
+☀️ **15°C** (feels 13°C) · Sunny · 💧 70% · 💨 13 km/h · 🕐 07:17 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"When you want to be honored by others, you learn to honor them first."*
+> *"Take care of your body. It's the only place you have to live."*
 >
-> — **Sathya Sai Baba**
+> — **Jim Rohn**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**nomenclature**
-> A fascinating word worth looking up!
+**ostentatious** · /ˌɒs.tənˈteɪ.ʃəs/ · _adjective_
+> Of ostentation.
 
 ### 📅 On This Day
-📅 **1954** — The Cruise of the Kings, a royal cruise organised by the Queen Consort of Greece, Frederica of Hanover, departed from Marseille, France. · [Read more](https://en.wikipedia.org/wiki/Cruise_of_the_Kings)
+📅 **1814** — War of 1812: British forces invaded Washington, D.C., setting fire to various U.S. government buildings, including the White House. · [Read more](https://en.wikipedia.org/wiki/War_of_1812)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,21 +68,21 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 IBM’s motto is “Think”. Apple later made their motto “Think different”.
 
 ### 💡 Dev Tip of the Day
-💡 **JavaScript**: The `??` (nullish coalescing) operator in JS only falls back on `null`/`undefined`, not `0` or `""`.
+💡 **Bash**: In Bash, `set -euo pipefail` at the top of scripts catches errors, unset variables, and pipe failures.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 13h ago
+🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 1d ago
 🌿 Created branch in [`salmanmkc/xrblocks`](https://github.com/salmanmkc/xrblocks) · 4d ago
 🔀 opened PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 4d ago
-🔒 ...and **2169** contributions to private repositories this year
+🔒 ...and **2151** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-08-23 19:06 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-08-24 07:17 BST</sub>
