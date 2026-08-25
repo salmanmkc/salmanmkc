@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"If you spend too much time thinking about a thing, you'll never get it done."*
+> *"I love fools' experiments. I am always making them."*
 >
-> — **Bruce Lee**
+> — **Charles Darwin**
+
+<sub>📅 2026-08-25 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
