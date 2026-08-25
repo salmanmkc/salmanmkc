@@ -42,25 +42,27 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-☀️ **19°C** (feels 15°C) · Sunny · 💧 49% · 💨 19 km/h · 🕐 19:10 BST
+🌤️ **17°C** (feels 14°C) · Overcast  · 💧 71% · 💨 18 km/h · 🕐 01:16 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Death walks faster than the wind and never returns what he has taken."*
+> *"If you put water into a cup, it becomes the cup."*
 >
-> — **Hans Christian Andersen**
+> — **Bruce Lee**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**ostentatious** · /ˌɒs.tənˈteɪ.ʃəs/ · _adjective_
-> Of ostentation.
+**plethora** · /plɪˈθɔːɹə/ · _noun_
+> (usually followed by of) An excessive amount or number; an abundance.
+>
+> _"The menu offers a plethora of cuisines from around the world."_
 
 ### 📅 On This Day
-📅 **1814** — War of 1812: British forces invaded Washington, D.C., setting fire to various U.S. government buildings, including the White House. · [Read more](https://en.wikipedia.org/wiki/War_of_1812)
+📅 **2001** — American singer Aaliyah and several members of her record company were killed when their overloaded aircraft crashed shortly after takeoff from Marsh Harbour Airport in The Bahamas. · [Read more](https://en.wikipedia.org/wiki/Aaliyah)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,7 +70,7 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 A snail can sleep for three years.
 
 ### 💡 Dev Tip of the Day
-💡 **Bash**: In Bash, `set -euo pipefail` at the top of scripts catches errors, unset variables, and pipe failures.
+💡 **Git**: Use `git log --oneline --graph --all` for a beautiful ASCII branch visualisation.
 <!-- LEARN:END -->
 
 ---
@@ -85,4 +87,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-08-24 19:10 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-08-25 01:16 BST</sub>
