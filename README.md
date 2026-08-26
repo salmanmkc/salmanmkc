@@ -42,27 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **23°C** (feels 19°C) · Cloudy  · 💧 42% · 💨 18 km/h · 🕐 19:10 BST
+🌤️ **20°C** (feels 19°C) · Overcast  · 💧 63% · 💨 13 km/h · 🕐 01:17 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"I must also have a dark side if I am to be whole."*
+> *"The man who moved the mountain was the one who began carrying away the smallest stones."*
 >
-> — **Carl Jung**
+> — **Zen Proverb**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**plethora** · /plɪˈθɔːɹə/ · _noun_
-> (usually followed by of) An excessive amount or number; an abundance.
->
-> _"The menu offers a plethora of cuisines from around the world."_
+**quintuple** · _noun_
+> A fivefold amount
 
 ### 📅 On This Day
-📅 **2001** — American singer Aaliyah and several members of her record company were killed when their overloaded aircraft crashed shortly after takeoff from Marsh Harbour Airport in The Bahamas. · [Read more](https://en.wikipedia.org/wiki/Aaliyah)
+📅 **1970** — Betty Friedan and the National Organization for Women organized the Women's Strike for Equality in New York City, in which 50,000 women protested the continuing lack of gender equality. · [Read more](https://en.wikipedia.org/wiki/Betty_Friedan)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -70,7 +68,7 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 The shortest British monarch was Charles I, who was 4 feet 9 inches.
 
 ### 💡 Dev Tip of the Day
-💡 **Git**: Use `git log --oneline --graph --all` for a beautiful ASCII branch visualisation.
+💡 **Docker**: `docker system prune -a` removes all unused containers, images, and networks — saves gigabytes.
 <!-- LEARN:END -->
 
 ---
@@ -85,4 +83,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-08-25 19:10 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-08-26 01:17 BST</sub>
