@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"The happiest people in the world are those who feel absolutely terrific about themselves."*
+> *"Only when one allows themself the right to die, do they then give yourself the permission to live."*
 >
-> — **Brian Tracy**
+> — **C. Sean McGee**
+
+<sub>📅 2026-08-29 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
