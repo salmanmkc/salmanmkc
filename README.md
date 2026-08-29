@@ -42,22 +42,22 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **16°C** (feels 14°C) · Light drizzle · 💧 87% · 💨 16 km/h · 🕐 13:17 BST
+🌤️ **18°C** (feels 16°C) · Light rain shower · 💧 87% · 💨 24 km/h · 🕐 19:14 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"The best way to predict the future is to invent it."*
+> *"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it."*
 >
-> — **Alan Kay**
+> — **Celestine Chua**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**terrestrial**
-> A fascinating word worth looking up!
+**terrestrial** · /təˈɹɛstɹi.əl/ · _noun_
+> An inhabitant of the planet Earth.
 
 ### 📅 On This Day
 📅 **1842** — Under the Treaty of Nanking, an "unequal treaty" that ended the First Opium War, the Chinese island from which Hong Kong would grow was ceded to Britain. · [Read more](https://en.wikipedia.org/wiki/Treaty_of_Nanking)
@@ -87,4 +87,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-08-29 13:17 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-08-29 19:14 BST</sub>
