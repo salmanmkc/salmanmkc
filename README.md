@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **18°C** (feels 16°C) · Light rain shower · 💧 87% · 💨 24 km/h · 🕐 19:14 BST
+🌤️ **16°C** (feels 15°C) · Clear  · 💧 91% · 💨 14 km/h · 🕐 01:41 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it."*
+> *"Friendship is one of the most tangible things in a world which offers fewer and fewer supports."*
 >
-> — **Celestine Chua**
+> — **Kenneth Branagh**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**terrestrial** · /təˈɹɛstɹi.əl/ · _noun_
-> An inhabitant of the planet Earth.
+**phosphenes**
+> A fascinating word worth looking up!
 
 ### 📅 On This Day
-📅 **1842** — Under the Treaty of Nanking, an "unequal treaty" that ended the First Opium War, the Chinese island from which Hong Kong would grow was ceded to Britain. · [Read more](https://en.wikipedia.org/wiki/Treaty_of_Nanking)
+📅 **1990** — Gulf War: US General Norman Schwarzkopf Jr. issued General Order No. 1 prohibiting US troops from consuming alcohol or possessing pornographic material. · [Read more](https://en.wikipedia.org/wiki/Gulf_War)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,18 +68,18 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 The human heart creates enough pressure to squirt blood 30ft.
 
 ### 💡 Dev Tip of the Day
-💡 **Git**: Use `git commit --fixup=<SHA>` and `git rebase -i --autosquash` for cleaner history.
+💡 **Python**: `python -m json.tool < file.json` pretty-prints JSON from the command line.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-🐛 labeled issue in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 1d ago
-💬 IssueComment in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 1d ago
-🐛 labeled issue in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 1d ago
-🐛 opened issue in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 1d ago
-🐛 labeled issue in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 1d ago
+🐛 labeled issue in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 2d ago
+💬 IssueComment in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 2d ago
+🐛 labeled issue in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 2d ago
+🐛 opened issue in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 2d ago
+🐛 labeled issue in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 2d ago
 🔒 ...and **2180** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
@@ -87,4 +87,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-08-29 19:14 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-08-30 01:41 BST</sub>
