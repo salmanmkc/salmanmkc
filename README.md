@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Manifest plainness, embrace simplicity, reduce selfishness, have few desires."*
+> *"The best revenge is to be unlike him who performed the injury."*
 >
-> — **Lao Tzu**
+> — **Marcus Aurelius**
+
+<sub>📅 2026-08-30 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
