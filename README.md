@@ -42,16 +42,14 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **14°C** (feels 11°C) · Overcast  · 💧 85% · 💨 20 km/h · 🕐 07:30 BST
+🌤️ **18°C** (feels 15°C) · Patchy rain nearby · 💧 62% · 💨 21 km/h · 🕐 13:22 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Better a diamond with a flaw than a pebble without one."*
+> *"Talk is cheap. Show me the code."*
 >
-> — **Chinese Proverb**
-
-<sub>📅 2026-08-31 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
+> — **Linus Torvalds**
 <!-- QUOTE:END -->
 
 ---
@@ -67,7 +65,7 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
 
-🧠 A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top.
+🧠 It is impossible to lick your elbow.
 
 ### 💡 Dev Tip of the Day
 💡 **Git**: Use `git cherry-pick -n <SHA>` to apply changes without committing — useful for selective merges.
@@ -89,4 +87,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-08-31 07:30 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-08-31 13:22 BST</sub>
