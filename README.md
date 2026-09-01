@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **19°C** (feels 16°C) · Patchy rain nearby · 💧 55% · 💨 16 km/h · 🕐 19:17 BST
+🌤️ **16°C** (feels 14°C) · Cloudy  · 💧 65% · 💨 10 km/h · 🕐 01:45 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Deeds will not be less valiant because they are upraised."*
+> *"Tis not too late to seek a newer world."*
 >
-> — **J.R.R. Tolkien**
+> — **Heraclitus**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**sonder**
+**petrichor**
 > A fascinating word worth looking up!
 
 ### 📅 On This Day
-📅 **1814** — War of 1812: American militia forces repelled a British force at the Battle of Caulk's Field, killing 41 people including Captain Peter Parker of the Royal Navy. · [Read more](https://en.wikipedia.org/wiki/War_of_1812)
+📅 **1952** — Ernest Hemingway's novel The Old Man and the Sea, which later won the Pulitzer Prize for Fiction, was first published. · [Read more](https://en.wikipedia.org/wiki/Ernest_Hemingway)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,18 +68,18 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 It is impossible to lick your elbow.
 
 ### 💡 Dev Tip of the Day
-💡 **Git**: Use `git cherry-pick -n <SHA>` to apply changes without committing — useful for selective merges.
+💡 **Git**: Use `git log --oneline --graph --all` for a beautiful ASCII branch visualisation.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-🐛 labeled issue in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 3d ago
-💬 IssueComment in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 3d ago
-🐛 labeled issue in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 3d ago
-🐛 opened issue in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 3d ago
-🐛 labeled issue in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 3d ago
+🐛 labeled issue in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 4d ago
+💬 IssueComment in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 4d ago
+🐛 labeled issue in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 4d ago
+🐛 opened issue in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 4d ago
+🐛 labeled issue in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 4d ago
 🔒 ...and **2102** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
@@ -87,4 +87,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-08-31 19:17 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-09-01 01:45 BST</sub>
