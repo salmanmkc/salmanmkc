@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"We would accomplish many more things if we did not think of them as impossible."*
+> *"Nothing we see or hear is perfect. But right there in the imperfection is perfect reality."*
 >
-> — **Vince Lombardi**
+> — **Shunryu Suzuki**
+
+<sub>📅 2026-09-02 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
