@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **21°C** (feels 19°C) · Overcast  · 💧 58% · 💨 15 km/h · 🕐 19:17 BST
+🌤️ **18°C** (feels 17°C) · Partly Cloudy  · 💧 88% · 💨 18 km/h · 🕐 01:38 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"All that we see or seem is but a dream within a dream."*
+> *"Few things are more deceptive than memories."*
 >
-> — **Edgar Allan Poe**
+> — **Carlos Ruiz Zafon**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**phosphenes**
+**sonder**
 > A fascinating word worth looking up!
 
 ### 📅 On This Day
-📅 **1885** — White miners in Rock Springs, Wyoming, attacked Chinese-American immigrants, killing at least 28 Chinese miners and causing approximately $150,000 in property damage. · [Read more](https://en.wikipedia.org/wiki/Rock_Springs%2C_Wyoming)
+📅 **1987** — While he was abroad, Burundian president Jean-Baptiste Bagaza was deposed in a military coup d'état by Pierre Buyoya. · [Read more](https://en.wikipedia.org/wiki/Jean-Baptiste_Bagaza)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,18 +68,18 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 A Czech man, Jan Honza Zampa, holds the record for drinking one liter of beer in 4.11 seconds.
 
 ### 💡 Dev Tip of the Day
-💡 **Docker**: `docker system prune -a` removes all unused containers, images, and networks — saves gigabytes.
+💡 **CSS**: In CSS, `gap` works on Flexbox too (not just Grid) — cleaner than margins for spacing.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-🐛 labeled issue in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 5d ago
-💬 IssueComment in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 5d ago
-🐛 labeled issue in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 5d ago
-🐛 opened issue in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 5d ago
-🐛 labeled issue in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 5d ago
+🐛 labeled issue in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 6d ago
+💬 IssueComment in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 6d ago
+🐛 labeled issue in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 6d ago
+🐛 opened issue in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 6d ago
+🐛 labeled issue in [`salmanmkc/superset-2`](https://github.com/salmanmkc/superset-2) · 6d ago
 🔒 ...and **2103** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
@@ -87,4 +87,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-09-02 19:17 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-09-03 01:38 BST</sub>
