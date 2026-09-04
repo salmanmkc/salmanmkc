@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing."*
+> *"Happiness depends upon ourselves."*
 >
-> — **Morihei Ueshiba**
+> — **Aristotle**
+
+<sub>📅 2026-09-04 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
