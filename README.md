@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Never feel shame for trying and failing, for he who has never failed is he who has never tried."*
+> *"Success is getting what you want, happiness is wanting what you get."*
 >
-> — **Og Mandino**
+> — **W.P. Kinsella**
+
+<sub>📅 2026-09-05 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
