@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **21°C** (feels 20°C) · Overcast  · 💧 39% · 💨 6 km/h · 🕐 19:14 BST
+🌤️ **17°C** (feels 15°C) · Overcast  · 💧 57% · 💨 7 km/h · 🕐 01:41 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"If no one ever broke the rules, then we'd never advance."*
+> *"The world only exists in your eyes. You can make it as big or as small as you want."*
 >
-> — **Simon Sinek**
+> — **F. Scott Fitzgerald**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**chrysalism**
+**numinous**
 > A fascinating word worth looking up!
 
 ### 📅 On This Day
-📅 **1943** — World War II: American and Australian airborne forces landed at Nadzab as part of the New Guinea campaign against Japan. · [Read more](https://en.wikipedia.org/wiki/World_War_II)
+📅 **2018** — The Supreme Court of India invalidated part of Section 377 of the Penal Code, thus legalising homosexuality in India. · [Read more](https://en.wikipedia.org/wiki/Supreme_Court_of_India)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,7 +68,7 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 In America you will see an average of 500 advertisements a day.
 
 ### 💡 Dev Tip of the Day
-💡 **Git**: Use `git commit --fixup=<SHA>` and `git rebase -i --autosquash` for cleaner history.
+💡 **Node.js**: Use `npx` to run CLI tools without installing them globally: `npx create-react-app my-app`.
 <!-- LEARN:END -->
 
 ---
@@ -82,4 +82,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-09-05 19:14 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-09-06 01:41 BST</sub>
