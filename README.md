@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves."*
+> *"Fallacies do not cease to be fallacies because they become fashions."*
 >
-> — **Brian Tracy**
+> — **Gilbert Chesterton**
+
+<sub>📅 2026-09-07 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
