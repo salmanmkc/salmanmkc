@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"It's what you do in the present that will redeem the past and thereby change the future."*
+> *"Any sufficiently advanced technology is indistinguishable from magic."*
 >
-> — **Paulo Coelho**
+> — **Arthur C. Clarke**
+
+<sub>📅 2026-09-08 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
