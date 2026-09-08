@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **21°C** (feels 18°C) · Overcast  · 💧 46% · 💨 13 km/h · 🕐 19:16 BST
+🌤️ **17°C** (feels 15°C) · Overcast  · 💧 63% · 💨 13 km/h · 🕐 01:38 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"If you change the way you look at things, the things you look at change."*
+> *"Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found."*
 >
-> — **Wayne Dyer**
+> — **Pema Chodron**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**halcyon** · /ˈhælsiːən/ · _noun_
-> A kingfisher said in classical mythology to nest on the sea, thereby calming the waters.
+**incandescent**
+> A fascinating word worth looking up!
 
 ### 📅 On This Day
-📅 **1936** — The last thylacine  died in captivity in Hobart Zoo, Australia. · [Read more](https://en.wikipedia.org/wiki/Thylacine)
+📅 **1100** — Theodoric was elected by opponents of Pope Paschal II, following the death of Antipope Clement III. · [Read more](https://en.wikipedia.org/wiki/Antipope_Theodoric)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,7 +68,7 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:  `Red rum, sir, is murder.` `Ma is as selfless as I am.` `Nurse, I spy gypsies. Run!`  `A man, a plan, a canal - Panama.` `He lived as a devil, eh?`
 
 ### 💡 Dev Tip of the Day
-💡 **Git**: `git diff --word-diff` shows changes at the word level instead of full lines.
+💡 **JavaScript**: Use `structuredClone(obj)` in JS for deep cloning — no more `JSON.parse(JSON.stringify())`.
 <!-- LEARN:END -->
 
 ---
@@ -82,4 +82,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-09-07 19:16 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-09-08 01:38 BST</sub>
