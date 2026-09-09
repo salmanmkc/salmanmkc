@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Your spirit is the true shield."*
+> *"Time is a game played beautifully by children."*
 >
-> — **Morihei Ueshiba**
+> — **Heraclitus**
+
+<sub>📅 2026-09-09 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
