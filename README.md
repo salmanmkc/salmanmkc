@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Simplicity is the soul of efficiency."*
+> *"The merit of all things lies in their difficulty."*
 >
-> — **Austin Freeman**
+> — **Alexandre Dumas**
+
+<sub>📅 2026-09-10 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
