@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-☀️ **17°C** (feels 15°C) · Sunny · 💧 54% · 💨 6 km/h · 🕐 19:17 BST
+🌤️ **14°C** (feels 12°C) · Clear  · 💧 66% · 💨 6 km/h · 🕐 01:36 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Believe you can and you're halfway there."*
+> *"Men trust their ears less than their eyes."*
 >
-> — **Colin R. Davis**
+> — **Herodotus**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**diaphanous**
+**conflagration**
 > A fascinating word worth looking up!
 
 ### 📅 On This Day
-📅 **1739** — The Stono Rebellion, at the time the largest slave rebellion in the Thirteen Colonies of British America, erupted near Charleston, South Carolina. · [Read more](https://en.wikipedia.org/wiki/Stono_Rebellion)
+📅 **2009** — Members of the Atlanta Police Department conducted a raid on a gay bar, with patrons later alleging that their constitutional rights had been violated and the city agreeing to pay over $1 million in settlements. · [Read more](https://en.wikipedia.org/wiki/Atlanta_Police_Department)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,18 +68,18 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 Marilyn Monroe had six toes.
 
 ### 💡 Dev Tip of the Day
-💡 **TypeScript**: In TypeScript, `satisfies` checks a type without widening: `const x = {} satisfies Config`.
+💡 **SQL**: In SQL, `COALESCE(col1, col2, 'default')` returns the first non-NULL value in the list.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-🗑️ Delete in [`actions/runner`](https://github.com/actions/runner) · 1d ago
-🗑️ Delete in [`actions/runner`](https://github.com/actions/runner) · 1d ago
-👀 PullRequestReview in [`actions/runner`](https://github.com/actions/runner) · 2h ago
-💬 IssueComment in [`actions/runner`](https://github.com/actions/runner) · 2h ago
-👀 PullRequestReview in [`actions/actions-runner-controller`](https://github.com/actions/actions-runner-controller) · 1d ago
+🗑️ Delete in [`actions/runner`](https://github.com/actions/runner) · 2d ago
+🗑️ Delete in [`actions/runner`](https://github.com/actions/runner) · 2d ago
+🗑️ Delete in [`actions/runner`](https://github.com/actions/runner) · 2d ago
+🗑️ Delete in [`actions/runner`](https://github.com/actions/runner) · 2d ago
+👀 PullRequestReview in [`actions/runner`](https://github.com/actions/runner) · 8h ago
 🔒 ...and **2073** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
@@ -87,4 +87,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-09-09 19:17 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-09-10 01:36 BST</sub>
