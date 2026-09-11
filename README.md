@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"The greater the impact you want to make, the greater your influence needs to be."*
+> *"Doing what you love is the cornerstone of having abundance in your life."*
 >
-> — **Lolly Daskal**
+> — **Wayne Dyer**
+
+<sub>📅 2026-09-11 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
