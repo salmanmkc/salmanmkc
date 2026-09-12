@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey."*
+> *"Ponder and deliberate before you make a move."*
 >
-> — **Roy T. Bennett**
+> — **Sun Tzu**
+
+<sub>📅 2026-09-12 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
