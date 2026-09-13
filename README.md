@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Sometimes it is harder to deprive oneself of a pain than of a pleasure."*
+> *"As mortals, we're ruled by conditions, not by ourselves."*
 >
-> — **F. Scott Fitzgerald**
+> — **Bodhidharma**
+
+<sub>📅 2026-09-13 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
