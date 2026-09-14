@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Not all those who wander are lost."*
+> *"The soul is neither born, and nor does it die."*
 >
-> — **J.R.R. Tolkien**
+> — **Bhagavad Gita**
+
+<sub>📅 2026-09-14 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
