@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Life belongs to the living, and he who lives must be prepared for changes."*
+> *"We've got to live, no matter how many skies have fallen."*
 >
-> — **Johann Wolfgang von Goethe**
+> — **D. H. Lawrence**
+
+<sub>📅 2026-09-17 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
