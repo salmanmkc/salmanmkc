@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **18°C** (feels 13°C) · Overcast  · 💧 59% · 💨 22 km/h · 🕐 19:15 BST
+🌤️ **16°C** (feels 13°C) · Patchy rain nearby · 💧 80% · 💨 19 km/h · 🕐 01:36 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others."*
+> *"The key to immortality is first living a life worth remembering."*
 >
-> — **Criss Jami**
+> — **Bruce Lee**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**catharsis**
+**synchronicity**
 > A fascinating word worth looking up!
 
 ### 📅 On This Day
-📅 **1851** — The New York Times, the largest metropolitan newspaper in the United States, was founded. · [Read more](https://en.wikipedia.org/wiki/The_New_York_Times)
+📅 **1846** — Near La Salette-Fallavaux in southeastern France, shepherd children Mélanie Calvat and Maximin Giraud reported a Marian apparition, now known as Our Lady of La Salette (statue pictured). · [Read more](https://en.wikipedia.org/wiki/La_Salette-Fallavaux)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,23 +68,23 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 About 500 movies are made in the US and 800 in India annually.
 
 ### 💡 Dev Tip of the Day
-💡 **Git**: Use `git bisect` to binary-search for the commit that introduced a bug.
+💡 **JavaScript**: The `??` (nullish coalescing) operator in JS only falls back on `null`/`undefined`, not `0` or `""`.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 1h ago
-🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 2h ago
-🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 2h ago
-🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 2h ago
-🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 2h ago
-🔒 ...and **2104** contributions to private repositories this year
+💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 5h ago
+🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 8h ago
+🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 8h ago
+🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 8h ago
+🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 9h ago
+🔒 ...and **2105** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-09-18 19:15 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-09-19 01:36 BST</sub>
