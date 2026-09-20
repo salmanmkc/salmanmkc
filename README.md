@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **19°C** (feels 17°C) · Patchy rain nearby · 💧 79% · 💨 21 km/h · 🕐 19:14 BST
+🌤️ **17°C** (feels 14°C) · Overcast  · 💧 71% · 💨 18 km/h · 🕐 01:41 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Your goals are the road maps that guide you and show you what is possible for your life."*
+> *"To know your Enemy, you must become your Enemy."*
 >
-> — **Les Brown**
+> — **Sun Tzu**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**synchronicity**
+**exuberant**
 > A fascinating word worth looking up!
 
 ### 📅 On This Day
-📅 **1846** — Near La Salette-Fallavaux in southeastern France, shepherd children Mélanie Calvat and Maximin Giraud reported a Marian apparition, now known as Our Lady of La Salette (statue pictured). · [Read more](https://en.wikipedia.org/wiki/La_Salette-Fallavaux)
+📅 **1984** — The Cosby Show, which became one of three U.S. television shows to have the highest ratings five years in a row, premiered with its pilot episode. · [Read more](https://en.wikipedia.org/wiki/The_Cosby_Show)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,14 +68,14 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 The average human will shed 40 pounds of skin in a lifetime.
 
 ### 💡 Dev Tip of the Day
-💡 **JavaScript**: The `??` (nullish coalescing) operator in JS only falls back on `null`/`undefined`, not `0` or `""`.
+💡 **GitHub CLI**: `gh pr create --web` opens a pre-filled PR creation page in your browser from the CLI.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 22h ago
+💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 1d ago
 🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 1d ago
 🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 1d ago
 🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 1d ago
@@ -87,4 +87,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-09-19 19:14 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-09-20 01:41 BST</sub>
