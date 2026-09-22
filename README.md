@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"The finish line is just the beginning of a whole new race."*
+> *"All has not been said and never will be."*
 >
-> — **Unknown**
+> — **Samuel Beckett**
+
+<sub>📅 2026-09-22 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
