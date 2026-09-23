@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!"*
+> *"If you want to achieve greatness stop asking for permission."*
 >
-> — **Og Mandino**
+> — **Unknown**
+
+<sub>📅 2026-09-23 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
