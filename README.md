@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-☀️ **24°C** (feels 24°C) · Sunny · 💧 50% · 💨 5 km/h · 🕐 19:18 BST
+🌤️ **19°C** (feels 18°C) · Overcast  · 💧 63% · 💨 8 km/h · 🕐 01:35 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy."*
+> *"Some people are old at 18 and some are young at 90. Time is a concept that humans created."*
 >
-> — **Celestine Chua**
+> — **Yoko Ono**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**jovial**
+**kaleidoscope**
 > A fascinating word worth looking up!
 
 ### 📅 On This Day
-📅 **1979** — An American Vela satellite detected an unidentified flash of light near the Prince Edward Islands in the Indian Ocean, thought to be a nuclear weapons test. · [Read more](https://en.wikipedia.org/wiki/Vela_(satellite))
+📅 **1983** — Flying from Pakistan, Gulf Air Flight 771 was bombed up by the Abu Nidal Organization while on approach over the United Arab Emirates (UAE), killing all 112 people on board. · [Read more](https://en.wikipedia.org/wiki/Gulf_Air_Flight_771)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,17 +68,17 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee.
 
 ### 💡 Dev Tip of the Day
-💡 **VS Code**: VS Code Sticky Scroll (`editor.stickyScroll.enabled`) pins parent scopes at the top while scrolling.
+💡 **JavaScript**: Use `Promise.allSettled()` when you need all promises to finish, regardless of rejections.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-🗑️ Delete in [`actions/runner`](https://github.com/actions/runner) · 6h ago
-👀 PullRequestReview in [`actions/runner`](https://github.com/actions/runner) · 6h ago
-🗑️ Delete in [`actions/runner`](https://github.com/actions/runner) · 6h ago
-👀 PullRequestReview in [`actions/runner`](https://github.com/actions/runner) · 6h ago
+🗑️ Delete in [`actions/runner`](https://github.com/actions/runner) · 12h ago
+👀 PullRequestReview in [`actions/runner`](https://github.com/actions/runner) · 12h ago
+🗑️ Delete in [`actions/runner`](https://github.com/actions/runner) · 12h ago
+👀 PullRequestReview in [`actions/runner`](https://github.com/actions/runner) · 12h ago
 💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 2d ago
 🔒 ...and **2060** contributions to private repositories this year
 <!-- ACTIVITY:END -->
@@ -87,4 +87,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-09-22 19:18 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-09-23 01:35 BST</sub>
