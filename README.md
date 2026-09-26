@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Life is the dancer and you are the dance."*
+> *"Silence is a source of great strength."*
 >
-> — **Eckhart Tolle**
+> — **Lao Tzu**
+
+<sub>📅 2026-09-26 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
