@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone."*
+> *"My definition of success is control."*
 >
-> — **Jack Kerouac**
+> — **Kenneth Branagh**
+
+<sub>📅 2026-09-28 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
