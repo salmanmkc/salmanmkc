@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Freeing oneself from words is liberation."*
+> *"Others can stop you temporarily - you are the only one who can do it permanently."*
 >
-> — **Bodhidharma**
+> — **Zig Ziglar**
+
+<sub>📅 2026-09-29 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
