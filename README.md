@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"The harder you work, the harder it is to surrender."*
+> *"The journey is what brings us happiness not the destination."*
 >
-> — **Vince Lombardi**
+> — **Dan Millman**
+
+<sub>📅 2026-10-03 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
