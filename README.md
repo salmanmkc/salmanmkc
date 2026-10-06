@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated."*
+> *"The more we value things, the less we value ourselves."*
 >
-> — **Albus Dumbledore**
+> — **Bruce Lee**
+
+<sub>📅 2026-10-06 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
