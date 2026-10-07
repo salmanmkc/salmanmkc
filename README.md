@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **20°C** (feels 20°C) · Overcast  · 💧 56% · 💨 5 km/h · 🕐 19:17 BST
+🌤️ **16°C** (feels 17°C) · Overcast  · 💧 86% · 💨 5 km/h · 🕐 01:41 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"When you rise in the morning, form a resolution to make the day a happy one for a fellow creature."*
+> *"There's no one to perform for. There is just work to be done and lessons to be learned, in all that is around us."*
 >
-> — **Sydney Smith**
+> — **Ryan Holiday**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**promulgate**
+**acquiesce**
 > A fascinating word worth looking up!
 
 ### 📅 On This Day
-📅 **1908** — Austria-Hungary announced the annexation of Bosnia and Herzegovina, causing a crisis that permanently damaged the country's relations with the Russian Empire and the Kingdom of Serbia. · [Read more](https://en.wikipedia.org/wiki/Austria-Hungary)
+📅 **1571** — Ottoman–Habsburg wars: The Battle of Lepanto was fought near the Gulf of Corinth, a significant setback for the Ottoman Empire and the last major naval battle fought entirely with galleys. · [Read more](https://en.wikipedia.org/wiki/Ottoman%E2%80%93Habsburg_wars)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,23 +68,23 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 The average North American will eat 35,000 cookies during their life span.
 
 ### 💡 Dev Tip of the Day
-💡 **VS Code**: VS Code Sticky Scroll (`editor.stickyScroll.enabled`) pins parent scopes at the top while scrolling.
+💡 **JavaScript**: Use `Promise.allSettled()` when you need all promises to finish, regardless of rejections.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-💬 IssueComment in [`actions/runner`](https://github.com/actions/runner) · 3h ago
-🐛 closed issue in [`actions/runner`](https://github.com/actions/runner) · 3h ago
-🌿 Created branch in [`actions/runner`](https://github.com/actions/runner) · 11h ago
-🌿 Created branch in [`actions/runner`](https://github.com/actions/runner) · 5h ago
-🔀 merged PR in [`actions/runner`](https://github.com/actions/runner) · 5h ago
-🔒 ...and **2040** contributions to private repositories this year
+🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 4h ago
+💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 6h ago
+💬 IssueComment in [`actions/runner`](https://github.com/actions/runner) · 9h ago
+🐛 closed issue in [`actions/runner`](https://github.com/actions/runner) · 9h ago
+🌿 Created branch in [`actions/runner`](https://github.com/actions/runner) · 18h ago
+🔒 ...and **2044** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-10-06 19:17 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-10-07 01:41 BST</sub>
