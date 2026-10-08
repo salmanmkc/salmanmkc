@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **11°C** (feels 8°C) · Overcast  · 💧 77% · 💨 22 km/h · 🕐 19:18 BST
+🌤️ **10°C** (feels 7°C) · Clear  · 💧 74% · 💨 17 km/h · 🕐 01:40 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"A hut full of laughter is richer than a palace full of sadness."*
+> *"Do not fight with pigs - you will be smeared in mud but the pig will like it."*
 >
-> — **Zen Proverb**
+> — **George Bernard Shaw**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**acquiesce**
+**juxtapose**
 > A fascinating word worth looking up!
 
 ### 📅 On This Day
-📅 **1868** — Ōdate, the last castle of the Satake clan in Japan's Tōhoku region, was captured during the Boshin War. · [Read more](https://en.wikipedia.org/wiki/Satake_clan)
+📅 **2016** — Yemen War: A funeral in Sanaa was hit by two consecutive airstrikes  by a Saudi-led coalition, leaving 143–155 civilians dead and more than 525 injured. · [Read more](https://en.wikipedia.org/wiki/Saudi-led_intervention_in_the_Yemeni_civil_war)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,7 +68,7 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 The Human eyes never grow, but nose and ears never stop growing.
 
 ### 💡 Dev Tip of the Day
-💡 **JavaScript**: Use `Promise.allSettled()` when you need all promises to finish, regardless of rejections.
+💡 **Git**: `git reflog` shows your local history of HEAD changes — great for recovering "lost" commits.
 <!-- LEARN:END -->
 
 ---
@@ -76,9 +76,9 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
 🗑️ Delete in [`actions/runner`](https://github.com/actions/runner) · 1d ago
-👀 PullRequestReview in [`actions/toolkit`](https://github.com/actions/toolkit) · 8h ago
-🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 21h ago
-💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 23h ago
+👀 PullRequestReview in [`actions/toolkit`](https://github.com/actions/toolkit) · 15h ago
+🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 1d ago
+💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 1d ago
 💬 IssueComment in [`actions/runner`](https://github.com/actions/runner) · 1d ago
 🔒 ...and **2054** contributions to private repositories this year
 <!-- ACTIVITY:END -->
@@ -87,4 +87,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-10-07 19:18 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-10-08 01:40 BST</sub>
