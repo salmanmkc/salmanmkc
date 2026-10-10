@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Integrity is telling myself the truth. And honesty is telling the truth to other people."*
+> *"Some people dream of success, while others wake up and work hard at it."*
 >
-> — **Spencer Johnson**
+> — **Napoleon Hill**
+
+<sub>📅 2026-10-10 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
