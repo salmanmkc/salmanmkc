@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **17°C** (feels 13°C) · Patchy rain nearby · 💧 69% · 💨 22 km/h · 🕐 19:17 BST
+🌤️ **12°C** (feels 9°C) · Clear  · 💧 68% · 💨 18 km/h · 🕐 01:41 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Meditate. It won't be fun but it will surface what you need to deal with."*
+> *"Keep your friends close, and your enemies closer."*
 >
-> — **Naval Ravikant**
+> — **Sun Tzu**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**conflagration**
+**nebulous**
 > A fascinating word worth looking up!
 
 ### 📅 On This Day
-📅 **1986** — The Phantom of the Opera, a musical by Andrew Lloyd Webber and currently the longest-running Broadway show in history, opened in London's West End. · [Read more](https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(1986_musical))
+📅 **1963** — The Partial Nuclear Test Ban Treaty, which prohibits all test detonations of nuclear weapons except for those conducted underground, went into effect. · [Read more](https://en.wikipedia.org/wiki/Partial_Nuclear_Test_Ban_Treaty)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,7 +68,7 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 Simplistic passwords contribute to over 80% of all computer password break-ins.
 
 ### 💡 Dev Tip of the Day
-💡 **GitHub**: Use `<details>` and `<summary>` HTML tags in GitHub markdown for collapsible sections.
+💡 **Git**: `git diff --word-diff` shows changes at the word level instead of full lines.
 <!-- LEARN:END -->
 
 ---
@@ -76,7 +76,7 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
 🗑️ Delete in [`actions/runner`](https://github.com/actions/runner) · 3d ago
-👀 PullRequestReview in [`actions/toolkit`](https://github.com/actions/toolkit) · 2d ago
+👀 PullRequestReview in [`actions/toolkit`](https://github.com/actions/toolkit) · 3d ago
 🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 3d ago
 💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 3d ago
 💬 IssueComment in [`actions/runner`](https://github.com/actions/runner) · 3d ago
@@ -87,4 +87,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-10-09 19:17 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-10-10 01:41 BST</sub>
