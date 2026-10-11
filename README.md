@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"If you can't explain it simply, you don't understand it well enough."*
+> *"What the mind can conceive, it can achieve."*
 >
-> — **Albert Einstein**
+> — **Napoleon Hill**
+
+<sub>📅 2026-10-11 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
