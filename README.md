@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"It's easy to be a critic, but being a doer requires effort, risk, and change."*
+> *"Convinced myself, I seek not to convince."*
 >
-> — **Wayne Dyer**
+> — **Edgar Allan Poe**
+
+<sub>📅 2026-10-12 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
