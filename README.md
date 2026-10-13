@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"A rational person can find peace by cultivating indifference to things outside of their control."*
+> *"A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy."*
 >
-> — **Naval Ravikant**
+> — **Norman Vincent Peale**
+
+<sub>📅 2026-10-13 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
