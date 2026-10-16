@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Disobedience is the true foundation of liberty. The obedient must be slaves."*
+> *"Those who know, do. Those that understand, teach."*
 >
-> — **Henry David Thoreau**
+> — **Aristotle**
+
+<sub>📅 2026-10-16 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
