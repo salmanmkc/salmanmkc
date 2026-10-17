@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Best be yourself, imperial, plain, and true."*
+> *"The harder you work, the harder it is to surrender."*
 >
-> — **Robert Browning**
+> — **Vince Lombardi**
+
+<sub>📅 2026-10-17 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
