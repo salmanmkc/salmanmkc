@@ -42,27 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **13°C** (feels 11°C) · Overcast  · 💧 71% · 💨 10 km/h · 🕐 19:17 BST
+🌤️ **14°C** (feels 12°C) · Patchy rain nearby · 💧 87% · 💨 10 km/h · 🕐 01:35 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"You can only be afraid of what you think you know."*
+> *"Growth comes at the point of resistance."*
 >
-> — **Jiddu Krishnamurti**
+> — **Josh Waitzkin**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**exuberant** · /ɪɡˈzuːbəɹənt/ · _adjective_
-> (of people) Very high-spirited; extremely energetic and enthusiastic.
->
-> _"exuberant feeling"_
+**kinetic** · /kɪˈnɛtɪk/ · _adjective_
+> Relating to motion
 
 ### 📅 On This Day
-📅 **1781** — American Revolutionary War: British forces led by Lord Cornwallis officially surrendered to Franco-American forces under George Washington and the comte de Rochambeau, ending the Siege of Yorktown. · [Read more](https://en.wikipedia.org/wiki/American_Revolutionary_War)
+📅 **1977** — Three members of the American rock band Lynyrd Skynyrd died when their chartered plane crashed in Gillsburg, Mississippi. · [Read more](https://en.wikipedia.org/wiki/Lynyrd_Skynyrd)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -70,23 +68,23 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 Donald Duck comics were banned from Finland because he doesn`t wear pants!
 
 ### 💡 Dev Tip of the Day
-💡 **JavaScript**: Use `AbortController` in JS to cancel fetch requests.
+💡 **VS Code**: `Ctrl+Shift+P` in VS Code opens the Command Palette — the fastest way to do anything.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-🔀 opened PR in [`google/xrblocks`](https://github.com/google/xrblocks) · just now
-👀 PullRequestReview in [`google/xrblocks`](https://github.com/google/xrblocks) · just now
-👀 PullRequestReview in [`google/xrblocks`](https://github.com/google/xrblocks) · 1h ago
-📋 PullRequestReviewComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 1h ago
-👀 PullRequestReview in [`google/xrblocks`](https://github.com/google/xrblocks) · 1h ago
-🔒 ...and **2154** contributions to private repositories this year
+💬 IssueComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 4h ago
+🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 1h ago
+👀 PullRequestReview in [`actions/toolkit`](https://github.com/actions/toolkit) · 2h ago
+🗑️ Delete in [`actions/runner`](https://github.com/actions/runner) · 14h ago
+👀 PullRequestReview in [`actions/toolkit`](https://github.com/actions/toolkit) · 2h ago
+🔒 ...and **2161** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-10-19 19:17 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-10-20 01:35 BST</sub>
