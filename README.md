@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself."*
+> *"To forgive means pardoning the unpardonable."*
 >
-> — **Robert Kiyosaki**
+> — **Gilbert Chesterton**
+
+<sub>📅 2026-10-21 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
