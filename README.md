@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **10°C** (feels 6°C) · Clear  · 💧 64% · 💨 23 km/h · 🕐 19:16 BST
+🌤️ **9°C** (feels 7°C) · Clear  · 💧 88% · 💨 19 km/h · 🕐 07:22 BST
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"The chief danger in life is that you may take too many precautions."*
+> *"The only reason to be alive is to enjoy it."*
 >
-> — **Alfred Adler**
+> — **Rita Mae Brown**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**lustrous**
+**meridian**
 > A fascinating word worth looking up!
 
 ### 📅 On This Day
-📅 **1994** — In Seoul, South Korea, 32 people were killed and 17 others injured when a span of the Seongsu Bridge collapsed (pictured). · [Read more](https://en.wikipedia.org/wiki/Seoul)
+📅 **1989** — TAN-SAHSA Flight 414 crashed in approach to Toncontín International Airport, killing 131 out of 146 people onboard. · [Read more](https://en.wikipedia.org/wiki/TAN-SAHSA_Flight_414)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,23 +68,23 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 Rubber bands last longer when refrigerated.
 
 ### 💡 Dev Tip of the Day
-💡 **Git**: Use `git bisect` to binary-search for the commit that introduced a bug.
+💡 **JavaScript**: The `??` (nullish coalescing) operator in JS only falls back on `null`/`undefined`, not `0` or `""`.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-💬 IssueComment in [`meta-quest/immersive-web-emulation-runtime`](https://github.com/meta-quest/immersive-web-emulation-runtime) · 1h ago
-🔀 opened PR in [`meta-quest/immersive-web-emulation-runtime`](https://github.com/meta-quest/immersive-web-emulation-runtime) · 1h ago
-🔀 opened PR in [`meta-quest/immersive-web-emulation-runtime`](https://github.com/meta-quest/immersive-web-emulation-runtime) · 1h ago
-👀 PullRequestReview in [`actions/toolkit`](https://github.com/actions/toolkit) · 3h ago
-💬 IssueComment in [`actions/actions-runner-controller`](https://github.com/actions/actions-runner-controller) · 5h ago
-🔒 ...and **2322** contributions to private repositories this year
+🚀 Release in [`salmanmkc/immersive-web-emulation-runtime`](https://github.com/salmanmkc/immersive-web-emulation-runtime) · 2h ago
+💬 IssueComment in [`google-deepmind/mujoco_playground`](https://github.com/google-deepmind/mujoco_playground) · 6h ago
+🌿 Created branch in [`salmanmkc/immersive-web-emulation-runtime`](https://github.com/salmanmkc/immersive-web-emulation-runtime) · 1d ago
+🌿 Created branch in [`salmanmkc/three.js`](https://github.com/salmanmkc/three.js) · 1d ago
+💬 IssueComment in [`meta-quest/immersive-web-emulation-runtime`](https://github.com/meta-quest/immersive-web-emulation-runtime) · 13h ago
+🔒 ...and **2529** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-10-21 19:16 BST</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-10-22 07:22 BST</sub>
