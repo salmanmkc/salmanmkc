@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"The only reason to be alive is to enjoy it."*
+> *"Do not look upon this world with fear and loathing. Bravely face whatever the gods offer."*
 >
-> — **Rita Mae Brown**
+> — **Morihei Ueshiba**
+
+<sub>📅 2026-10-22 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
