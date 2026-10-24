@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"The most important thing is to enjoy your life, to be happy, it's all that matters."*
+> *"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way."*
 >
-> — **Audrey Hepburn**
+> — **Robert Kiyosaki**
+
+<sub>📅 2026-10-24 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
