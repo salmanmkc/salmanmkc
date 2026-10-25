@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Failure comes from ego, greed, envy, fear, and imitation."*
+> *"To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to."*
 >
-> — **Warren Buffett**
+> — **Kahlil Gibran**
+
+<sub>📅 2026-10-25 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
