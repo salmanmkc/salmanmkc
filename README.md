@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Today will never happen again. Don't waste it with a false start or no start at all."*
+> *"The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become."*
 >
-> — **Og Mandino**
+> — **Heraclitus**
+
+<sub>📅 2026-10-27 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
