@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Even the finest sword plunged into salt water will eventually rust."*
+> *"The only defense against the world is a thorough knowledge of it."*
 >
-> — **Sun Tzu**
+> — **John Locke**
+
+<sub>📅 2026-10-28 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
