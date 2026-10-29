@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Genius is the ability to act rightly without precedent - the power to do the right thing the first time."*
+> *"The greatest value of a picture is when it forces us to notice what we never expected to see."*
 >
-> — **Elbert Hubbard**
+> — **John Tukey**
+
+<sub>📅 2026-10-29 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
