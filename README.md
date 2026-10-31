@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do."*
+> *"Deliberately seek the company of people who influence you to think and act on building the life you desire."*
 >
-> — **Nelson Mandela**
+> — **Napoleon Hill**
+
+<sub>📅 2026-10-31 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
