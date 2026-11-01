@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday."*
+> *"The road to success is always under construction."*
 >
-> — **Brian Tracy**
+> — **Steve Harvey**
+
+<sub>📅 2026-11-01 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
