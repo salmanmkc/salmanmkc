@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Through discipline comes freedom."*
+> *"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases."*
 >
-> — **Aristotle**
+> — **Sathya Sai Baba**
+
+<sub>📅 2026-11-02 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
