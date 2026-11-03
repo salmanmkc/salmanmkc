@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Continuous effort - not strength or intelligence - is the key to unlocking our potential."*
+> *"When one does not have what one wants, one must want what one has."*
 >
-> — **Winston Churchill**
+> — **Sigmund Freud**
+
+<sub>📅 2026-11-03 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
