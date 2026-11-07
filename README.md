@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **11°C** (feels 10°C) · Overcast  · 💧 75% · 💨 4 km/h · 🕐 18:11 GMT
+🌤️ **9°C** (feels 8°C) · Partly Cloudy  · 💧 88% · 💨 4 km/h · 🕐 00:21 GMT
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Men are equal; it is not birth but virtue that makes the difference."*
+> *"The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened."*
 >
-> — **Voltaire**
+> — **Kamal Ravikant**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**catalyst**
-> A fascinating word worth looking up!
+**enigma** · /əˈnɪɡmə/ · _noun_
+> Something or someone puzzling, mysterious or inexplicable.
 
 ### 📅 On This Day
-📅 **1794** — French Revolutionary Wars: Two British ships were intercepted by a French squadron, leading to the French seizure of HMS Alexander. · [Read more](https://en.wikipedia.org/wiki/French_Revolutionary_Wars)
+📅 **1972** — A ship collision with the Sidney Lanier Bridge in the U.S. state of Georgia resulted in a bridge collapse (pictured), which killed ten people. · [Read more](https://en.wikipedia.org/wiki/Sidney_Lanier_Bridge)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,23 +68,23 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 Adolf Hitler's mother seriously considered having an abortion but was talked out of it by her doctor.
 
 ### 💡 Dev Tip of the Day
-💡 **Git**: `git diff --word-diff` shows changes at the word level instead of full lines.
+💡 **JavaScript**: Use `structuredClone(obj)` in JS for deep cloning — no more `JSON.parse(JSON.stringify())`.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 11h ago
-🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 11h ago
-📋 PullRequestReviewComment in [`google/xrblocks`](https://github.com/google/xrblocks) · 1d ago
-⭐ Starred [`openai/git`](https://github.com/openai/git) · 16h ago
-👀 PullRequestReview in [`google/xrblocks`](https://github.com/google/xrblocks) · 1d ago
-🔒 ...and **2774** contributions to private repositories this year
+👀 PullRequestReview in [`actions/scaleset`](https://github.com/actions/scaleset) · 1h ago
+👀 PullRequestReview in [`actions/runner`](https://github.com/actions/runner) · 1h ago
+🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 1h ago
+🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 2h ago
+🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 2h ago
+🔒 ...and **2775** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-11-06 18:11 GMT</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-11-07 00:21 GMT</sub>
