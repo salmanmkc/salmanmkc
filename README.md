@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"You know you are on the road to success if you would do your job and not be paid for it."*
+> *"The journey is what brings us happiness not the destination."*
 >
-> — **Oprah Winfrey**
+> — **Dan Millman**
+
+<sub>📅 2026-11-07 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
