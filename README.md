@@ -42,24 +42,22 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **9°C** (feels 7°C) · Overcast  · 💧 81% · 💨 4 km/h · 🕐 06:13 GMT
+🌤️ **10°C** (feels 8°C) · Overcast  · 💧 79% · 💨 4 km/h · 🕐 12:11 GMT
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"The goal is not to be perfect by the end, the goal is to be better today."*
+> *"Never allow someone to be your priority while allowing yourself to be their option."*
 >
-> — **Simon Sinek**
-
-<sub>📅 2026-11-08 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
+> — **Mark Twain**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**flora** · /ˈflɔː.ɹə/ · _noun_
-> Plants considered as a group, especially those of a particular country, region, time, etc.
+**flora**
+> A fascinating word worth looking up!
 
 ### 📅 On This Day
 📅 **1987** — A Provisional Irish Republican Army bomb exploded during a Remembrance Sunday ceremony in Enniskillen, Northern Ireland, killing 12 people and injuring 63 others. · [Read more](https://en.wikipedia.org/wiki/Provisional_Irish_Republican_Army)
@@ -67,7 +65,7 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
 
-🧠 There are over 58 million dogs in the US
+🧠 Buckingham Palace has 602 rooms.
 
 ### 💡 Dev Tip of the Day
 💡 **TypeScript**: In TypeScript, `satisfies` checks a type without widening: `const x = {} satisfies Config`.
@@ -77,11 +75,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-⭐ Starred [`Stengo/DeskPad`](https://github.com/Stengo/DeskPad) · 18h ago
-🗑️ Delete in [`actions/runner`](https://github.com/actions/runner) · 1d ago
+⭐ Starred [`Stengo/DeskPad`](https://github.com/Stengo/DeskPad) · 23h ago
+🗑️ Delete in [`actions/runner`](https://github.com/actions/runner) · 2d ago
 🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 1d ago
-👀 PullRequestReview in [`actions/scaleset`](https://github.com/actions/scaleset) · 1d ago
-👀 PullRequestReview in [`actions/runner`](https://github.com/actions/runner) · 1d ago
+👀 PullRequestReview in [`actions/scaleset`](https://github.com/actions/scaleset) · 2d ago
+👀 PullRequestReview in [`actions/runner`](https://github.com/actions/runner) · 2d ago
 🔒 ...and **2784** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
@@ -89,4 +87,4 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-11-08 06:13 GMT</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-11-08 12:11 GMT</sub>
