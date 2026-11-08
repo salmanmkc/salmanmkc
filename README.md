@@ -42,25 +42,25 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- WEATHER:START -->
 ### ⛅ London (where I'm living right now)
-🌤️ **10°C** (feels 8°C) · Clear  · 💧 68% · 💨 4 km/h · 🕐 18:08 GMT
+🌤️ **8°C** (feels 7°C) · Partly Cloudy  · 💧 80% · 💨 4 km/h · 🕐 00:25 GMT
 <!-- WEATHER:END -->
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."*
+> *"Insanity is relative. It depends on who has who locked in what cage."*
 >
-> — **Lao Tzu**
+> — **Ray Bradbury**
 <!-- QUOTE:END -->
 
 ---
 
 <!-- LEARN:START -->
 ### 📖 Word of the Day
-**enigma** · /əˈnɪɡmə/ · _noun_
-> Something or someone puzzling, mysterious or inexplicable.
+**flora** · /ˈflɔː.ɹə/ · _noun_
+> Plants considered as a group, especially those of a particular country, region, time, etc.
 
 ### 📅 On This Day
-📅 **1972** — A ship collision with the Sidney Lanier Bridge in the U.S. state of Georgia resulted in a bridge collapse (pictured), which killed ten people. · [Read more](https://en.wikipedia.org/wiki/Sidney_Lanier_Bridge)
+📅 **1987** — A Provisional Irish Republican Army bomb exploded during a Remembrance Sunday ceremony in Enniskillen, Northern Ireland, killing 12 people and injuring 63 others. · [Read more](https://en.wikipedia.org/wiki/Provisional_Irish_Republican_Army)
 
 ### 🧠 Random (Potentially Fun) Fact
 <sub>_Automated — not hand-picked by me, just whatever the source says today._</sub>
@@ -68,23 +68,23 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 🧠 There are over 58 million dogs in the US
 
 ### 💡 Dev Tip of the Day
-💡 **JavaScript**: Use `structuredClone(obj)` in JS for deep cloning — no more `JSON.parse(JSON.stringify())`.
+💡 **TypeScript**: In TypeScript, `satisfies` checks a type without widening: `const x = {} satisfies Config`.
 <!-- LEARN:END -->
 
 ---
 
 <!-- ACTIVITY:START -->
 ### ⚡ Recent Activity
-⭐ Starred [`Stengo/DeskPad`](https://github.com/Stengo/DeskPad) · 5h ago
-🗑️ Delete in [`actions/runner`](https://github.com/actions/runner) · 19h ago
-🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 13h ago
-👀 PullRequestReview in [`actions/scaleset`](https://github.com/actions/scaleset) · 19h ago
-👀 PullRequestReview in [`actions/runner`](https://github.com/actions/runner) · 19h ago
-🔒 ...and **2781** contributions to private repositories this year
+⭐ Starred [`Stengo/DeskPad`](https://github.com/Stengo/DeskPad) · 12h ago
+🗑️ Delete in [`actions/runner`](https://github.com/actions/runner) · 1d ago
+🔀 merged PR in [`google/xrblocks`](https://github.com/google/xrblocks) · 19h ago
+👀 PullRequestReview in [`actions/scaleset`](https://github.com/actions/scaleset) · 1d ago
+👀 PullRequestReview in [`actions/runner`](https://github.com/actions/runner) · 1d ago
+🔒 ...and **2784** contributions to private repositories this year
 <!-- ACTIVITY:END -->
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmanmkc)
 
-<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-11-07 18:08 GMT</sub>
+<sub>🤖 This README is auto-updated every 6 hours by [GitHub Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/profile-readme-updater.yml) · Last update: 2026-11-08 00:25 GMT</sub>
