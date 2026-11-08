@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing."*
+> *"The goal is not to be perfect by the end, the goal is to be better today."*
 >
-> — **Morihei Ueshiba**
+> — **Simon Sinek**
+
+<sub>📅 2026-11-08 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
