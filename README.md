@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult."*
+> *"When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything."*
 >
-> — **Seneca**
+> — **Paramahansa Yogananda**
+
+<sub>📅 2026-11-10 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
