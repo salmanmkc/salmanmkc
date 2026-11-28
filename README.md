@@ -47,9 +47,11 @@ I enjoy sharing knowledge with other developers. I've hosted and spoken at a num
 
 <!-- QUOTE:START -->
 ### 🌅 Quote of the Day
-> *"Silence is a source of great strength."*
+> *"Everything will be ok in the end. If it's not ok, it's not the end."*
 >
-> — **Lao Tzu**
+> — **John Lennon**
+
+<sub>📅 2026-11-28 · Updated daily by [Actions](https://github.com/salmanmkc/actions-playground/actions/workflows/quote-of-the-day.yml)</sub>
 <!-- QUOTE:END -->
 
 ---
